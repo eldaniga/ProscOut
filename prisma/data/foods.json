@@ -1,0 +1,6687 @@
+[
+  {
+    "name": "Bacón, ahumado, a la parrilla",
+    "kcal": 290.5,
+    "protein": 23.4,
+    "carbs": 0.0,
+    "fat": 22.1
+  },
+  {
+    "name": "Café, con leche",
+    "kcal": 37.8,
+    "protein": 1.7,
+    "carbs": 2.5,
+    "fat": 2.4
+  },
+  {
+    "name": "Bacon, crudo, con grasa separable",
+    "kcal": 544.2,
+    "protein": 8.7,
+    "carbs": 0.1,
+    "fat": 57.5
+  },
+  {
+    "name": "Batido lácteo de cacao, bajo en calorías",
+    "kcal": 48.1,
+    "protein": 3.1,
+    "carbs": 4.6,
+    "fat": 1.9
+  },
+  {
+    "name": "Batido lácteo, de fresa, bajo en calorías",
+    "kcal": 111.5,
+    "protein": 3.8,
+    "carbs": 22.9,
+    "fat": 0.3
+  },
+  {
+    "name": "Cabrito, parte s/e, crudo, con grasa separable",
+    "kcal": 113.8,
+    "protein": 19.3,
+    "carbs": 0.0,
+    "fat": 4.0
+  },
+  {
+    "name": "Callos de ternera",
+    "kcal": 94.7,
+    "protein": 14.6,
+    "carbs": 0.0,
+    "fat": 4.0
+  },
+  {
+    "name": "Cerdo, lomo, asado",
+    "kcal": 235.9,
+    "protein": 27.0,
+    "carbs": 0.0,
+    "fat": 14.3
+  },
+  {
+    "name": "Cerdo, pierna, cruda, con grasa separable",
+    "kcal": 211.6,
+    "protein": 19.0,
+    "carbs": 0.0,
+    "fat": 15.2
+  },
+  {
+    "name": "Queso afuega'l pitu",
+    "kcal": 467.5,
+    "protein": 26.8,
+    "carbs": 0.0,
+    "fat": 40.6
+  },
+  {
+    "name": "Queso ahumado de aliva",
+    "kcal": 406.1,
+    "protein": 25.7,
+    "carbs": 0.0,
+    "fat": 34.1
+  },
+  {
+    "name": "Queso cantabria",
+    "kcal": 354.5,
+    "protein": 21.5,
+    "carbs": 0.0,
+    "fat": 30.2
+  },
+  {
+    "name": "Queso casín",
+    "kcal": 366.2,
+    "protein": 23.1,
+    "carbs": 0.0,
+    "fat": 30.8
+  },
+  {
+    "name": "Queso de murcia, al vino",
+    "kcal": 438.0,
+    "protein": 23.2,
+    "carbs": 0.0,
+    "fat": 38.9
+  },
+  {
+    "name": "Queso de cádiz",
+    "kcal": 306.5,
+    "protein": 16.9,
+    "carbs": 0.0,
+    "fat": 26.9
+  },
+  {
+    "name": "Queso Tetilla",
+    "kcal": 372.5,
+    "protein": 21.6,
+    "carbs": 0.0,
+    "fat": 32.2
+  },
+  {
+    "name": "Queso gaztazarra",
+    "kcal": 327.0,
+    "protein": 18.4,
+    "carbs": 0.0,
+    "fat": 28.5
+  },
+  {
+    "name": "Queso herreño",
+    "kcal": 365.3,
+    "protein": 24.1,
+    "carbs": 0.0,
+    "fat": 30.2
+  },
+  {
+    "name": "Queso cebreiro",
+    "kcal": 257.1,
+    "protein": 14.9,
+    "carbs": 0.0,
+    "fat": 22.2
+  },
+  {
+    "name": "Queso pedroches",
+    "kcal": 337.3,
+    "protein": 24.2,
+    "carbs": 0.0,
+    "fat": 27.0
+  },
+  {
+    "name": "Queso tupí",
+    "kcal": 606.9,
+    "protein": 19.2,
+    "carbs": 0.0,
+    "fat": 59.8
+  },
+  {
+    "name": "Queso flor de guía",
+    "kcal": 385.2,
+    "protein": 27.2,
+    "carbs": 0.0,
+    "fat": 31.1
+  },
+  {
+    "name": "Queso gata-hurdes",
+    "kcal": 383.4,
+    "protein": 21.2,
+    "carbs": 0.0,
+    "fat": 33.6
+  },
+  {
+    "name": "Queso de aracena",
+    "kcal": 388.4,
+    "protein": 21.9,
+    "carbs": 0.0,
+    "fat": 33.9
+  },
+  {
+    "name": "Queso de tenerife",
+    "kcal": 341.0,
+    "protein": 19.3,
+    "carbs": 0.0,
+    "fat": 29.7
+  },
+  {
+    "name": "Queso de tiétar",
+    "kcal": 396.8,
+    "protein": 21.5,
+    "carbs": 0.0,
+    "fat": 35.0
+  },
+  {
+    "name": "Queso pasiego",
+    "kcal": 294.5,
+    "protein": 14.9,
+    "carbs": 0.0,
+    "fat": 26.4
+  },
+  {
+    "name": "Queso peñamellera",
+    "kcal": 363.2,
+    "protein": 23.3,
+    "carbs": 0.0,
+    "fat": 30.4
+  },
+  {
+    "name": "Queso servilleta",
+    "kcal": 322.7,
+    "protein": 22.2,
+    "carbs": 0.0,
+    "fat": 26.3
+  },
+  {
+    "name": "Queso grazalema",
+    "kcal": 374.7,
+    "protein": 21.9,
+    "carbs": 0.0,
+    "fat": 32.3
+  },
+  {
+    "name": "Queso porrúa",
+    "kcal": 379.6,
+    "protein": 23.8,
+    "carbs": 0.0,
+    "fat": 32.0
+  },
+  {
+    "name": "Queso picón",
+    "kcal": 384.1,
+    "protein": 22.7,
+    "carbs": 0.0,
+    "fat": 33.0
+  },
+  {
+    "name": "Queso serrat",
+    "kcal": 409.1,
+    "protein": 23.1,
+    "carbs": 0.0,
+    "fat": 35.6
+  },
+  {
+    "name": "Queso Castellano",
+    "kcal": 457.3,
+    "protein": 26.0,
+    "carbs": 0.0,
+    "fat": 39.8
+  },
+  {
+    "name": "Queso de arzúa",
+    "kcal": 395.3,
+    "protein": 22.2,
+    "carbs": 2.0,
+    "fat": 34.5
+  },
+  {
+    "name": "Queso Ibores",
+    "kcal": 400.7,
+    "protein": 23.9,
+    "carbs": 0.0,
+    "fat": 34.3
+  },
+  {
+    "name": "Queso Mahón",
+    "kcal": 404.6,
+    "protein": 24.9,
+    "carbs": 0.0,
+    "fat": 34.3
+  },
+  {
+    "name": "Queso Zamorano",
+    "kcal": 481.9,
+    "protein": 26.8,
+    "carbs": 0.0,
+    "fat": 42.2
+  },
+  {
+    "name": "Queso torta del casar",
+    "kcal": 360.5,
+    "protein": 18.2,
+    "carbs": 0.0,
+    "fat": 32.4
+  },
+  {
+    "name": "Queso San Simón",
+    "kcal": 441.2,
+    "protein": 26.1,
+    "carbs": 0.0,
+    "fat": 37.9
+  },
+  {
+    "name": "Queso majorero",
+    "kcal": 358.5,
+    "protein": 25.7,
+    "carbs": 0.0,
+    "fat": 28.8
+  },
+  {
+    "name": "Queso Raclette",
+    "kcal": 354.8,
+    "protein": 25.6,
+    "carbs": 0.0,
+    "fat": 28.4
+  },
+  {
+    "name": "Berenjena, frita, en aceite de girasol",
+    "kcal": 298.0,
+    "protein": 1.2,
+    "carbs": 2.7,
+    "fat": 31.9
+  },
+  {
+    "name": "Boniato, crudo",
+    "kcal": 101.0,
+    "protein": 1.2,
+    "carbs": 23.0,
+    "fat": 0.3
+  },
+  {
+    "name": "Berro, crudo",
+    "kcal": 11.9,
+    "protein": 2.2,
+    "carbs": 0.3,
+    "fat": 0.2
+  },
+  {
+    "name": "Achicoria, cruda",
+    "kcal": 18.7,
+    "protein": 0.5,
+    "carbs": 2.8,
+    "fat": 0.6
+  },
+  {
+    "name": "Anguila, al horno",
+    "kcal": 222.1,
+    "protein": 23.7,
+    "carbs": 0.0,
+    "fat": 14.2
+  },
+  {
+    "name": "Anguila, cruda",
+    "kcal": 218.4,
+    "protein": 20.0,
+    "carbs": 0.0,
+    "fat": 15.5
+  },
+  {
+    "name": "Anguila, hervida",
+    "kcal": 196.3,
+    "protein": 20.5,
+    "carbs": 0.0,
+    "fat": 12.8
+  },
+  {
+    "name": "Apio, en conserva en salmuera",
+    "kcal": 8.5,
+    "protein": 0.8,
+    "carbs": 1.3,
+    "fat": 0.0
+  },
+  {
+    "name": "Arenque, ahumado",
+    "kcal": 252.6,
+    "protein": 23.0,
+    "carbs": 0.0,
+    "fat": 13.9
+  },
+  {
+    "name": "Arenque, salado",
+    "kcal": 299.0,
+    "protein": 17.0,
+    "carbs": 0.0,
+    "fat": 26.0
+  },
+  {
+    "name": "Atún, al horno",
+    "kcal": 189.2,
+    "protein": 29.4,
+    "carbs": 0.0,
+    "fat": 7.9
+  },
+  {
+    "name": "Bacalao, ahumado",
+    "kcal": 79.2,
+    "protein": 18.3,
+    "carbs": 0.0,
+    "fat": 0.6
+  },
+  {
+    "name": "Aceite de algodón",
+    "kcal": 884.3,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 100.0
+  },
+  {
+    "name": "Aceite de cacahuete",
+    "kcal": 883.4,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 99.9
+  },
+  {
+    "name": "Aceite de coco",
+    "kcal": 884.3,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 100.0
+  },
+  {
+    "name": "Aceite de germen de trigo",
+    "kcal": 883.4,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 99.9
+  },
+  {
+    "name": "Aceite de nuez",
+    "kcal": 882.5,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 99.8
+  },
+  {
+    "name": "Aceite de palma",
+    "kcal": 884.3,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 100.0
+  },
+  {
+    "name": "Aceite de sésamo",
+    "kcal": 884.3,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 100.0
+  },
+  {
+    "name": "Aceite de colza",
+    "kcal": 884.3,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 100.0
+  },
+  {
+    "name": "Aceite de grano de uva",
+    "kcal": 883.4,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 99.9
+  },
+  {
+    "name": "Aceite de hígado de bacalao",
+    "kcal": 883.4,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 99.9
+  },
+  {
+    "name": "Mantequilla salada",
+    "kcal": 730.0,
+    "protein": 0.7,
+    "carbs": 0.5,
+    "fat": 82.0
+  },
+  {
+    "name": "Huevo de codorniz, entero, crudo",
+    "kcal": 153.0,
+    "protein": 13.1,
+    "carbs": 0.4,
+    "fat": 11.1
+  },
+  {
+    "name": "Huevo de gallina, escalfado",
+    "kcal": 146.2,
+    "protein": 12.6,
+    "carbs": 0.3,
+    "fat": 10.6
+  },
+  {
+    "name": "Huevo de gallina, frito",
+    "kcal": 184.6,
+    "protein": 13.4,
+    "carbs": 0.3,
+    "fat": 14.6
+  },
+  {
+    "name": "Huevo de gallina, pasado por agua",
+    "kcal": 143.6,
+    "protein": 12.5,
+    "carbs": 0.3,
+    "fat": 10.4
+  },
+  {
+    "name": "Huevo de gallina, revuelto, con mantequilla",
+    "kcal": 228.0,
+    "protein": 10.2,
+    "carbs": 0.8,
+    "fat": 20.7
+  },
+  {
+    "name": "Huevo de gallina, yema, desecada",
+    "kcal": 661.7,
+    "protein": 31.7,
+    "carbs": 2.1,
+    "fat": 59.3
+  },
+  {
+    "name": "Huevo de pavo, entero, crudo",
+    "kcal": 163.1,
+    "protein": 13.7,
+    "carbs": 1.2,
+    "fat": 11.9
+  },
+  {
+    "name": "Huevo de pato, crudo",
+    "kcal": 162.5,
+    "protein": 14.3,
+    "carbs": 0.0,
+    "fat": 11.8
+  },
+  {
+    "name": "Barra chocolate, tipo \"bounty\"",
+    "kcal": 489.6,
+    "protein": 4.6,
+    "carbs": 58.0,
+    "fat": 26.6
+  },
+  {
+    "name": "Barrita cereales maíz y trigo",
+    "kcal": 429.6,
+    "protein": 7.4,
+    "carbs": 68.3,
+    "fat": 13.8
+  },
+  {
+    "name": "Barrita cereales trigo y chocolate",
+    "kcal": 435.2,
+    "protein": 8.3,
+    "carbs": 66.6,
+    "fat": 14.8
+  },
+  {
+    "name": "Barra de chocolate, tipo \"Mars\"",
+    "kcal": 454.0,
+    "protein": 5.6,
+    "carbs": 65.9,
+    "fat": 18.5
+  },
+  {
+    "name": "Barra de chocolate, tipo \"Kit-kat\"",
+    "kcal": 498.8,
+    "protein": 6.5,
+    "carbs": 63.0,
+    "fat": 24.5
+  },
+  {
+    "name": "Mermelada de albaricoque",
+    "kcal": 15.0,
+    "protein": 0.3,
+    "carbs": 3.4,
+    "fat": 0.0
+  },
+  {
+    "name": "Mermelada de ciruela",
+    "kcal": 15.0,
+    "protein": 0.3,
+    "carbs": 3.4,
+    "fat": 0.0
+  },
+  {
+    "name": "Mermelada de grosella roja",
+    "kcal": 240.5,
+    "protein": 0.5,
+    "carbs": 58.7,
+    "fat": 0.0
+  },
+  {
+    "name": "Mermelada de mora",
+    "kcal": 240.5,
+    "protein": 0.5,
+    "carbs": 58.7,
+    "fat": 0.0
+  },
+  {
+    "name": "Mermelada de naranja",
+    "kcal": 18.7,
+    "protein": 0.3,
+    "carbs": 4.3,
+    "fat": 0.0
+  },
+  {
+    "name": "Chocolate con leche y almendras",
+    "kcal": 546.8,
+    "protein": 8.6,
+    "carbs": 49.8,
+    "fat": 35.0
+  },
+  {
+    "name": "Chocolate con leche y arroz",
+    "kcal": 514.6,
+    "protein": 6.4,
+    "carbs": 63.0,
+    "fat": 26.3
+  },
+  {
+    "name": "Chocolate con nueces de macadamia",
+    "kcal": 587.5,
+    "protein": 7.1,
+    "carbs": 47.6,
+    "fat": 41.3
+  },
+  {
+    "name": "Tortilla, a la francesa",
+    "kcal": 169.6,
+    "protein": 14.6,
+    "carbs": 0.4,
+    "fat": 12.3
+  },
+  {
+    "name": "Azúcar, moreno",
+    "kcal": 396.6,
+    "protein": 0.0,
+    "carbs": 97.6,
+    "fat": 0.0
+  },
+  {
+    "name": "Chocolate negro, con almendras",
+    "kcal": 532.7,
+    "protein": 8.2,
+    "carbs": 41.5,
+    "fat": 37.4
+  },
+  {
+    "name": "Chocolate negro, con azúcar",
+    "kcal": 529.4,
+    "protein": 2.0,
+    "carbs": 63.0,
+    "fat": 30.0
+  },
+  {
+    "name": "Crema de chocolate con avellanas",
+    "kcal": 541.4,
+    "protein": 5.4,
+    "carbs": 56.0,
+    "fat": 33.0
+  },
+  {
+    "name": "Crema inglesa",
+    "kcal": 123.1,
+    "protein": 5.5,
+    "carbs": 11.9,
+    "fat": 5.9
+  },
+  {
+    "name": "Turrón, tipo Alicante",
+    "kcal": 483.7,
+    "protein": 13.1,
+    "carbs": 44.9,
+    "fat": 28.1
+  },
+  {
+    "name": "Fructosa",
+    "kcal": 406.3,
+    "protein": 0.0,
+    "carbs": 100.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Crema pastelera",
+    "kcal": 158.0,
+    "protein": 4.9,
+    "carbs": 22.3,
+    "fat": 5.4
+  },
+  {
+    "name": "Chocolate, negro",
+    "kcal": 540.6,
+    "protein": 4.7,
+    "carbs": 64.8,
+    "fat": 29.2
+  },
+  {
+    "name": "Aperitivos de trigo",
+    "kcal": 507.4,
+    "protein": 10.3,
+    "carbs": 58.2,
+    "fat": 25.9
+  },
+  {
+    "name": "Alioli",
+    "kcal": 781.8,
+    "protein": 0.5,
+    "carbs": 2.8,
+    "fat": 86.9
+  },
+  {
+    "name": "Zumo de uva y melocotón",
+    "kcal": 51.2,
+    "protein": 0.6,
+    "carbs": 12.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Caldo vegetal",
+    "kcal": 104.1,
+    "protein": 11.3,
+    "carbs": 9.1,
+    "fat": 2.4
+  },
+  {
+    "name": "Chile, rojo",
+    "kcal": 33.6,
+    "protein": 1.0,
+    "carbs": 6.4,
+    "fat": 0.4
+  },
+  {
+    "name": "Chile, verde",
+    "kcal": 16.5,
+    "protein": 0.8,
+    "carbs": 2.6,
+    "fat": 0.3
+  },
+  {
+    "name": "Bacalao, fresco, al horno",
+    "kcal": 99.1,
+    "protein": 22.1,
+    "carbs": 0.0,
+    "fat": 1.1
+  },
+  {
+    "name": "Bacalao, salado, remojado, crudo",
+    "kcal": 109.2,
+    "protein": 26.0,
+    "carbs": 0.0,
+    "fat": 0.4
+  },
+  {
+    "name": "Bígaro, hervido",
+    "kcal": 94.9,
+    "protein": 20.8,
+    "carbs": 0.0,
+    "fat": 1.2
+  },
+  {
+    "name": "Bogavante, hervido",
+    "kcal": 103.7,
+    "protein": 22.1,
+    "carbs": 0.0,
+    "fat": 1.6
+  },
+  {
+    "name": "Bonito del norte, al vapor",
+    "kcal": 163.5,
+    "protein": 30.0,
+    "carbs": 0.0,
+    "fat": 4.7
+  },
+  {
+    "name": "Bonito del norte, enlatado en aceite de soja",
+    "kcal": 205.1,
+    "protein": 32.2,
+    "carbs": 0.0,
+    "fat": 8.4
+  },
+  {
+    "name": "Bonito, enlatado en aceite, escurrido",
+    "kcal": 203.6,
+    "protein": 26.2,
+    "carbs": 0.0,
+    "fat": 4.7
+  },
+  {
+    "name": "Breca, cruda",
+    "kcal": 75.5,
+    "protein": 15.4,
+    "carbs": 1.0,
+    "fat": 1.6
+  },
+  {
+    "name": "Caballa, al horno",
+    "kcal": 247.7,
+    "protein": 16.7,
+    "carbs": 0.0,
+    "fat": 20.3
+  },
+  {
+    "name": "Caballa, enlatada en aceite, escurrida",
+    "kcal": 207.3,
+    "protein": 14.9,
+    "carbs": 0.0,
+    "fat": 16.6
+  },
+  {
+    "name": "Cabracho o rascacio, crudo",
+    "kcal": 92.1,
+    "protein": 19.0,
+    "carbs": 0.0,
+    "fat": 1.7
+  },
+  {
+    "name": "Calamar, crudo",
+    "kcal": 71.5,
+    "protein": 14.0,
+    "carbs": 1.1,
+    "fat": 1.5
+  },
+  {
+    "name": "Cangrejo, en conserva",
+    "kcal": 98.4,
+    "protein": 19.7,
+    "carbs": 1.0,
+    "fat": 1.6
+  },
+  {
+    "name": "Carpa, al horno",
+    "kcal": 148.6,
+    "protein": 20.4,
+    "carbs": 0.0,
+    "fat": 7.4
+  },
+  {
+    "name": "Carpa, cruda",
+    "kcal": 115.9,
+    "protein": 17.8,
+    "carbs": 0.0,
+    "fat": 5.0
+  },
+  {
+    "name": "Dorada, cruda",
+    "kcal": 77.9,
+    "protein": 17.0,
+    "carbs": 0.0,
+    "fat": 7.2
+  },
+  {
+    "name": "Gamba quisquilla, congelada",
+    "kcal": 74.6,
+    "protein": 16.5,
+    "carbs": 0.0,
+    "fat": 0.9
+  },
+  {
+    "name": "Gamba roja, cruda",
+    "kcal": 89.2,
+    "protein": 18.0,
+    "carbs": 0.0,
+    "fat": 1.8
+  },
+  {
+    "name": "Jurel, crudo",
+    "kcal": 111.8,
+    "protein": 15.4,
+    "carbs": 0.8,
+    "fat": 2.0
+  },
+  {
+    "name": "Lenguado, al horno",
+    "kcal": 73.5,
+    "protein": 16.0,
+    "carbs": 0.0,
+    "fat": 1.0
+  },
+  {
+    "name": "Lija, cruda",
+    "kcal": 135.0,
+    "protein": 18.0,
+    "carbs": 0.0,
+    "fat": 7.0
+  },
+  {
+    "name": "Lucio, al horno",
+    "kcal": 95.1,
+    "protein": 21.5,
+    "carbs": 0.0,
+    "fat": 0.9
+  },
+  {
+    "name": "Mejillón, en conserva, al natural",
+    "kcal": 82.5,
+    "protein": 12.0,
+    "carbs": 2.0,
+    "fat": 2.9
+  },
+  {
+    "name": "Mejillón, hervido",
+    "kcal": 111.8,
+    "protein": 18.4,
+    "carbs": 3.2,
+    "fat": 2.7
+  },
+  {
+    "name": "Merluza, congelada, cruda",
+    "kcal": 84.5,
+    "protein": 16.7,
+    "carbs": 0.0,
+    "fat": 1.9
+  },
+  {
+    "name": "Mero, crudo",
+    "kcal": 87.7,
+    "protein": 19.4,
+    "carbs": 0.0,
+    "fat": 1.2
+  },
+  {
+    "name": "Mújol, al horno",
+    "kcal": 147.8,
+    "protein": 24.8,
+    "carbs": 0.0,
+    "fat": 5.3
+  },
+  {
+    "name": "Mújol, crudo",
+    "kcal": 127.6,
+    "protein": 15.8,
+    "carbs": 0.8,
+    "fat": 6.8
+  },
+  {
+    "name": "Ostra, cruda",
+    "kcal": 63.9,
+    "protein": 8.1,
+    "carbs": 2.8,
+    "fat": 2.2
+  },
+  {
+    "name": "Palometa, cruda",
+    "kcal": 125.5,
+    "protein": 20.0,
+    "carbs": 0.0,
+    "fat": 1.8
+  },
+  {
+    "name": "Perca, al horno",
+    "kcal": 97.5,
+    "protein": 21.6,
+    "carbs": 0.0,
+    "fat": 1.1
+  },
+  {
+    "name": "Perca, cruda",
+    "kcal": 89.7,
+    "protein": 18.6,
+    "carbs": 0.0,
+    "fat": 1.6
+  },
+  {
+    "name": "Pescadilla, rebozada en harina, frita",
+    "kcal": 176.7,
+    "protein": 18.1,
+    "carbs": 3.0,
+    "fat": 10.3
+  },
+  {
+    "name": "Pez espada, crudo",
+    "kcal": 110.3,
+    "protein": 18.0,
+    "carbs": 0.0,
+    "fat": 4.2
+  },
+  {
+    "name": "Platija, al vapor",
+    "kcal": 101.5,
+    "protein": 19.0,
+    "carbs": 0.0,
+    "fat": 2.7
+  },
+  {
+    "name": "Platija, cruda",
+    "kcal": 82.4,
+    "protein": 17.6,
+    "carbs": 0.0,
+    "fat": 1.2
+  },
+  {
+    "name": "Rape, a la parrilla",
+    "kcal": 94.7,
+    "protein": 22.0,
+    "carbs": 0.0,
+    "fat": 0.6
+  },
+  {
+    "name": "Salema, cruda",
+    "kcal": 103.2,
+    "protein": 12.7,
+    "carbs": 7.9,
+    "fat": 0.9
+  },
+  {
+    "name": "Tenca, cruda",
+    "kcal": 91.9,
+    "protein": 17.7,
+    "carbs": 3.3,
+    "fat": 4.3
+  },
+  {
+    "name": "Trucha, ahumada",
+    "kcal": 197.5,
+    "protein": 21.9,
+    "carbs": 0.0,
+    "fat": 6.7
+  },
+  {
+    "name": "Vieja, cruda",
+    "kcal": 83.2,
+    "protein": 12.1,
+    "carbs": 4.9,
+    "fat": 1.6
+  },
+  {
+    "name": "Volador, crudo",
+    "kcal": 88.0,
+    "protein": 21.0,
+    "carbs": 0.0,
+    "fat": 0.3
+  },
+  {
+    "name": "Soja, germinada, en conserva",
+    "kcal": 13.1,
+    "protein": 2.0,
+    "carbs": 1.0,
+    "fat": 0.1
+  },
+  {
+    "name": "Cebollino, crudo",
+    "kcal": 24.6,
+    "protein": 3.0,
+    "carbs": 1.9,
+    "fat": 0.5
+  },
+  {
+    "name": "Col rizada, cruda",
+    "kcal": 33.7,
+    "protein": 3.4,
+    "carbs": 1.4,
+    "fat": 1.6
+  },
+  {
+    "name": "Salsa vinagreta, con aceite de oliva",
+    "kcal": 636.2,
+    "protein": 0.2,
+    "carbs": 0.2,
+    "fat": 71.8
+  },
+  {
+    "name": "Salsa siciliana, picante",
+    "kcal": 67.1,
+    "protein": 1.3,
+    "carbs": 5.2,
+    "fat": 4.6
+  },
+  {
+    "name": "Salsa napolitana",
+    "kcal": 75.7,
+    "protein": 1.9,
+    "carbs": 6.5,
+    "fat": 4.7
+  },
+  {
+    "name": "Salsa carbonara",
+    "kcal": 303.3,
+    "protein": 7.5,
+    "carbs": 2.0,
+    "fat": 29.9
+  },
+  {
+    "name": "Coliflor, congelada, cruda",
+    "kcal": 18.2,
+    "protein": 2.0,
+    "carbs": 2.1,
+    "fat": 0.2
+  },
+  {
+    "name": "Espinaca, picada, congelada, cruda",
+    "kcal": 22.2,
+    "protein": 2.7,
+    "carbs": 1.0,
+    "fat": 0.8
+  },
+  {
+    "name": "Salsa al roquefort",
+    "kcal": 450.1,
+    "protein": 7.2,
+    "carbs": 0.2,
+    "fat": 47.5
+  },
+  {
+    "name": "Sal de mar",
+    "kcal": 0.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Patatas chips, \"lights\"",
+    "kcal": 457.4,
+    "protein": 7.0,
+    "carbs": 57.1,
+    "fat": 22.2
+  },
+  {
+    "name": "Palomitas de maíz, sin aceite, sin sal",
+    "kcal": 341.5,
+    "protein": 12.0,
+    "carbs": 62.9,
+    "fat": 4.2
+  },
+  {
+    "name": "Menta, fresca",
+    "kcal": 43.4,
+    "protein": 3.8,
+    "carbs": 5.3,
+    "fat": 0.7
+  },
+  {
+    "name": "Mayonesa, aceite de soja",
+    "kcal": 706.8,
+    "protein": 1.3,
+    "carbs": 0.7,
+    "fat": 79.0
+  },
+  {
+    "name": "Mayonesa, aceite de oliva",
+    "kcal": 781.7,
+    "protein": 2.1,
+    "carbs": 0.1,
+    "fat": 87.4
+  },
+  {
+    "name": "Galletas saladas, con queso",
+    "kcal": 479.6,
+    "protein": 11.8,
+    "carbs": 49.1,
+    "fat": 26.3
+  },
+  {
+    "name": "Flan de huevo, bajo en calorías",
+    "kcal": 76.5,
+    "protein": 5.7,
+    "carbs": 7.9,
+    "fat": 2.4
+  },
+  {
+    "name": "Crema de vainilla y mousse de chocolate",
+    "kcal": 130.9,
+    "protein": 4.0,
+    "carbs": 22.5,
+    "fat": 6.5
+  },
+  {
+    "name": "Judía verde, congelada, cruda",
+    "kcal": 29.1,
+    "protein": 1.9,
+    "carbs": 4.1,
+    "fat": 0.6
+  },
+  {
+    "name": "Maíz, en mazorca, congelado, crudo",
+    "kcal": 94.4,
+    "protein": 3.2,
+    "carbs": 18.3,
+    "fat": 0.8
+  },
+  {
+    "name": "Nabo, pelado, crudo",
+    "kcal": 18.4,
+    "protein": 0.9,
+    "carbs": 3.2,
+    "fat": 0.2
+  },
+  {
+    "name": "Níscalo, crudo",
+    "kcal": 14.0,
+    "protein": 1.9,
+    "carbs": 0.1,
+    "fat": 0.7
+  },
+  {
+    "name": "Palmito, en conserva",
+    "kcal": 46.5,
+    "protein": 2.8,
+    "carbs": 8.0,
+    "fat": 0.3
+  },
+  {
+    "name": "Patata, frita con aceite s/e, sin sal",
+    "kcal": 288.8,
+    "protein": 3.8,
+    "carbs": 30.0,
+    "fat": 17.1
+  },
+  {
+    "name": "Patata, salteada con aceite girasol",
+    "kcal": 134.1,
+    "protein": 1.9,
+    "carbs": 14.0,
+    "fat": 7.8
+  },
+  {
+    "name": "Puré de patata y queso, en copos",
+    "kcal": 460.1,
+    "protein": 10.9,
+    "carbs": 70.5,
+    "fat": 1.1
+  },
+  {
+    "name": "Puré, de patata, con leche",
+    "kcal": 94.4,
+    "protein": 2.2,
+    "carbs": 13.7,
+    "fat": 3.4
+  },
+  {
+    "name": "Puré de patata, con verduras, en copos",
+    "kcal": 360.0,
+    "protein": 4.0,
+    "carbs": 74.8,
+    "fat": 4.5
+  },
+  {
+    "name": "Tapioca, hervida",
+    "kcal": 126.8,
+    "protein": 0.2,
+    "carbs": 31.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Tomate, maduro, puré",
+    "kcal": 72.5,
+    "protein": 4.5,
+    "carbs": 12.9,
+    "fat": 0.2
+  },
+  {
+    "name": "Almidón de arroz",
+    "kcal": 348.5,
+    "protein": 0.8,
+    "carbs": 85.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Trufa, cruda",
+    "kcal": 93.8,
+    "protein": 9.0,
+    "carbs": 13.0,
+    "fat": 0.5
+  },
+  {
+    "name": "Almidón de trigo",
+    "kcal": 352.7,
+    "protein": 0.4,
+    "carbs": 86.1,
+    "fat": 0.0
+  },
+  {
+    "name": "Almendra, cruda",
+    "kcal": 586.2,
+    "protein": 19.1,
+    "carbs": 6.2,
+    "fat": 45.2
+  },
+  {
+    "name": "Almendra, frita, salada",
+    "kcal": 590.4,
+    "protein": 19.0,
+    "carbs": 4.5,
+    "fat": 56.0
+  },
+  {
+    "name": "Alubia blanca, en conserva",
+    "kcal": 93.1,
+    "protein": 6.7,
+    "carbs": 15.7,
+    "fat": 0.2
+  },
+  {
+    "name": "Alubia blanca, seca, cruda",
+    "kcal": 271.3,
+    "protein": 22.2,
+    "carbs": 41.6,
+    "fat": 1.3
+  },
+  {
+    "name": "Alubia negra, seca, remojada, hervida",
+    "kcal": 91.7,
+    "protein": 8.4,
+    "carbs": 13.7,
+    "fat": 0.2
+  },
+  {
+    "name": "Crema de coco",
+    "kcal": 124.0,
+    "protein": 2.9,
+    "carbs": 19.1,
+    "fat": 3.5
+  },
+  {
+    "name": "Crema de chocolate, baja en calorías",
+    "kcal": 74.9,
+    "protein": 3.6,
+    "carbs": 13.9,
+    "fat": 3.4
+  },
+  {
+    "name": "Crema de chocolate y nata",
+    "kcal": 86.1,
+    "protein": 3.9,
+    "carbs": 9.9,
+    "fat": 3.4
+  },
+  {
+    "name": "Arroz integral, crudo",
+    "kcal": 384.1,
+    "protein": 7.5,
+    "carbs": 81.3,
+    "fat": 2.6
+  },
+  {
+    "name": "Leche condensada, entera, con azúcar",
+    "kcal": 334.3,
+    "protein": 8.5,
+    "carbs": 53.6,
+    "fat": 9.2
+  },
+  {
+    "name": "Coco, desecado",
+    "kcal": 586.0,
+    "protein": 6.2,
+    "carbs": 11.8,
+    "fat": 58.0
+  },
+  {
+    "name": "Coco, fresco",
+    "kcal": 371.4,
+    "protein": 3.3,
+    "carbs": 15.2,
+    "fat": 33.5
+  },
+  {
+    "name": "Leche de coco",
+    "kcal": 207.9,
+    "protein": 2.0,
+    "carbs": 2.8,
+    "fat": 21.3
+  },
+  {
+    "name": "Leche en polvo, semidesnatada",
+    "kcal": 443.6,
+    "protein": 29.8,
+    "carbs": 43.9,
+    "fat": 16.3
+  },
+  {
+    "name": "Leche merengada",
+    "kcal": 84.0,
+    "protein": 3.0,
+    "carbs": 10.7,
+    "fat": 3.2
+  },
+  {
+    "name": "Frambuesa, cruda",
+    "kcal": 38.0,
+    "protein": 1.2,
+    "carbs": 7.0,
+    "fat": 0.5
+  },
+  {
+    "name": "Leche, desnatada, pasteurizada",
+    "kcal": 33.9,
+    "protein": 3.3,
+    "carbs": 4.6,
+    "fat": 0.2
+  },
+  {
+    "name": "Leche, semidesnatada, pasteurizada",
+    "kcal": 45.8,
+    "protein": 3.2,
+    "carbs": 4.6,
+    "fat": 1.6
+  },
+  {
+    "name": "Mousse de queso fresco, con frutas",
+    "kcal": 134.7,
+    "protein": 5.4,
+    "carbs": 16.0,
+    "fat": 5.4
+  },
+  {
+    "name": "Mousse de queso fresco, desnatado, azucarado",
+    "kcal": 105.6,
+    "protein": 8.5,
+    "carbs": 11.4,
+    "fat": 2.8
+  },
+  {
+    "name": "Mousse de queso fresco, desnatado, con frutas",
+    "kcal": 116.7,
+    "protein": 5.6,
+    "carbs": 19.2,
+    "fat": 1.8
+  },
+  {
+    "name": "Mousse de yogur, con frutas",
+    "kcal": 144.6,
+    "protein": 3.3,
+    "carbs": 17.7,
+    "fat": 6.7
+  },
+  {
+    "name": "Mousse de yogur, natural",
+    "kcal": 165.2,
+    "protein": 4.4,
+    "carbs": 15.8,
+    "fat": 9.4
+  },
+  {
+    "name": "Anacardo, crudo",
+    "kcal": 574.3,
+    "protein": 17.5,
+    "carbs": 32.0,
+    "fat": 43.1
+  },
+  {
+    "name": "Nata, líquida, para cocinar, 18% de grasa",
+    "kcal": 200.8,
+    "protein": 2.5,
+    "carbs": 3.4,
+    "fat": 20.0
+  },
+  {
+    "name": "Petit suïsse, cereales y fruta",
+    "kcal": 165.3,
+    "protein": 7.2,
+    "carbs": 16.5,
+    "fat": 7.8
+  },
+  {
+    "name": "Cacahuete, frito, salado",
+    "kcal": 590.0,
+    "protein": 26.8,
+    "carbs": 8.9,
+    "fat": 50.3
+  },
+  {
+    "name": "Petit suisse, chocolate",
+    "kcal": 174.4,
+    "protein": 4.3,
+    "carbs": 24.7,
+    "fat": 6.4
+  },
+  {
+    "name": "Petit suisse, fresa",
+    "kcal": 127.2,
+    "protein": 7.0,
+    "carbs": 16.7,
+    "fat": 3.5
+  },
+  {
+    "name": "Petit líquido, sabor fresa",
+    "kcal": 79.1,
+    "protein": 2.8,
+    "carbs": 14.5,
+    "fat": 1.0
+  },
+  {
+    "name": "Queso Camembert 20-30% MG/ES",
+    "kcal": 199.7,
+    "protein": 24.7,
+    "carbs": 0.0,
+    "fat": 11.2
+  },
+  {
+    "name": "Queso camembert 60% mg/es",
+    "kcal": 348.5,
+    "protein": 13.8,
+    "carbs": 0.0,
+    "fat": 33.1
+  },
+  {
+    "name": "Queso de Castilla-La Mancha, oveja y cabra",
+    "kcal": 404.8,
+    "protein": 21.8,
+    "carbs": 0.0,
+    "fat": 35.8
+  },
+  {
+    "name": "Queso de Castilla-La Mancha, oveja, vaca y cabra",
+    "kcal": 411.3,
+    "protein": 23.5,
+    "carbs": 0.0,
+    "fat": 35.7
+  },
+  {
+    "name": "Queso de castilla-león, oveja y vaca",
+    "kcal": 408.3,
+    "protein": 22.6,
+    "carbs": 0.0,
+    "fat": 35.8
+  },
+  {
+    "name": "Queso fresco, cabra",
+    "kcal": 296.6,
+    "protein": 19.8,
+    "carbs": 1.1,
+    "fat": 23.9
+  },
+  {
+    "name": "Castaña, tostada",
+    "kcal": 224.4,
+    "protein": 4.0,
+    "carbs": 39.7,
+    "fat": 5.3
+  },
+  {
+    "name": "Zumo de limón, fresco",
+    "kcal": 17.1,
+    "protein": 0.4,
+    "carbs": 3.6,
+    "fat": 0.1
+  },
+  {
+    "name": "Guayaba, sin piel, cruda",
+    "kcal": 57.0,
+    "protein": 0.8,
+    "carbs": 11.9,
+    "fat": 0.6
+  },
+  {
+    "name": "Queso fresco, desnatado, con frutas",
+    "kcal": 96.0,
+    "protein": 8.1,
+    "carbs": 15.3,
+    "fat": 0.1
+  },
+  {
+    "name": "Queso fundido, extragraso (>60% MG/ES)",
+    "kcal": 323.4,
+    "protein": 9.3,
+    "carbs": 2.4,
+    "fat": 31.2
+  },
+  {
+    "name": "Queso Gouda",
+    "kcal": 325.0,
+    "protein": 20.4,
+    "carbs": 0.0,
+    "fat": 27.4
+  },
+  {
+    "name": "Queso manchego, en aceite",
+    "kcal": 465.4,
+    "protein": 26.5,
+    "carbs": 0.0,
+    "fat": 40.5
+  },
+  {
+    "name": "Macedonia de frutas, conserva en su jugo",
+    "kcal": 106.1,
+    "protein": 0.9,
+    "carbs": 25.0,
+    "fat": 0.1
+  },
+  {
+    "name": "Queso munster",
+    "kcal": 331.5,
+    "protein": 19.1,
+    "carbs": 0.0,
+    "fat": 28.7
+  },
+  {
+    "name": "Queso para untar, con finas hierbas",
+    "kcal": 250.4,
+    "protein": 6.5,
+    "carbs": 3.1,
+    "fat": 23.9
+  },
+  {
+    "name": "Melocotón, desecado",
+    "kcal": 270.4,
+    "protein": 3.6,
+    "carbs": 61.3,
+    "fat": 0.8
+  },
+  {
+    "name": "Queso para untar, con salmón",
+    "kcal": 257.1,
+    "protein": 7.3,
+    "carbs": 3.1,
+    "fat": 24.3
+  },
+  {
+    "name": "Queso para untar, natural, bajo en calorías",
+    "kcal": 141.1,
+    "protein": 14.2,
+    "carbs": 4.2,
+    "fat": 13.0
+  },
+  {
+    "name": "Yogur líquido, aromatizado sabor s/e",
+    "kcal": 76.0,
+    "protein": 2.9,
+    "carbs": 12.8,
+    "fat": 1.4
+  },
+  {
+    "name": "Yogur líquido, entero, con cereales",
+    "kcal": 114.0,
+    "protein": 2.9,
+    "carbs": 20.8,
+    "fat": 2.0
+  },
+  {
+    "name": "Yogur, búlgaro",
+    "kcal": 73.9,
+    "protein": 5.0,
+    "carbs": 5.8,
+    "fat": 3.4
+  },
+  {
+    "name": "Yogur, desnatado, con cereales",
+    "kcal": 51.3,
+    "protein": 4.2,
+    "carbs": 8.2,
+    "fat": 0.1
+  },
+  {
+    "name": "Níspero, con piel, crudo",
+    "kcal": 52.6,
+    "protein": 0.4,
+    "carbs": 12.1,
+    "fat": 0.2
+  },
+  {
+    "name": "Cerdo, solomillo, asado",
+    "kcal": 158.6,
+    "protein": 28.8,
+    "carbs": 0.0,
+    "fat": 4.7
+  },
+  {
+    "name": "Ciervo, parte s/e, crudo, con grasa separable",
+    "kcal": 104.3,
+    "protein": 22.2,
+    "carbs": 0.0,
+    "fat": 1.6
+  },
+  {
+    "name": "Conejo, entero, estofado",
+    "kcal": 194.6,
+    "protein": 29.0,
+    "carbs": 0.0,
+    "fat": 8.7
+  },
+  {
+    "name": "Jamón cocido, categoría s/e",
+    "kcal": 113.5,
+    "protein": 21.0,
+    "carbs": 0.4,
+    "fat": 3.0
+  },
+  {
+    "name": "Corazón de cordero, crudo",
+    "kcal": 118.3,
+    "protein": 16.5,
+    "carbs": 0.2,
+    "fat": 5.7
+  },
+  {
+    "name": "Hígado, de cerdo, crudo",
+    "kcal": 119.7,
+    "protein": 21.4,
+    "carbs": 0.0,
+    "fat": 3.7
+  },
+  {
+    "name": "Paté de pimienta",
+    "kcal": 288.8,
+    "protein": 11.9,
+    "carbs": 11.3,
+    "fat": 28.0
+  },
+  {
+    "name": "Pato, entero, asado",
+    "kcal": 188.6,
+    "protein": 25.0,
+    "carbs": 0.0,
+    "fat": 9.8
+  },
+  {
+    "name": "Corazón de pollo, crudo",
+    "kcal": 148.5,
+    "protein": 15.6,
+    "carbs": 0.7,
+    "fat": 9.3
+  },
+  {
+    "name": "Chufa, cruda",
+    "kcal": 407.7,
+    "protein": 6.1,
+    "carbs": 42.5,
+    "fat": 23.7
+  },
+  {
+    "name": "Corazón, de cerdo, crudo",
+    "kcal": 114.5,
+    "protein": 17.3,
+    "carbs": 1.3,
+    "fat": 4.4
+  },
+  {
+    "name": "Corazón, de vaca/buey, cocido",
+    "kcal": 163.5,
+    "protein": 27.9,
+    "carbs": 0.0,
+    "fat": 5.7
+  },
+  {
+    "name": "Cordero, pierna, con grasa, asada",
+    "kcal": 221.7,
+    "protein": 25.0,
+    "carbs": 0.0,
+    "fat": 13.6
+  },
+  {
+    "name": "Gallina, entera, cruda",
+    "kcal": 230.4,
+    "protein": 17.3,
+    "carbs": 0.0,
+    "fat": 18.1
+  },
+  {
+    "name": "Pato, entero, crudo",
+    "kcal": 137.5,
+    "protein": 19.7,
+    "carbs": 0.0,
+    "fat": 6.5
+  },
+  {
+    "name": "Pichón, sin piel, asado",
+    "kcal": 176.9,
+    "protein": 37.0,
+    "carbs": 0.0,
+    "fat": 3.0
+  },
+  {
+    "name": "Oca, sin piel, asada",
+    "kcal": 274.5,
+    "protein": 29.1,
+    "carbs": 0.0,
+    "fat": 17.7
+  },
+  {
+    "name": "Crema de cacahuete",
+    "kcal": 599.6,
+    "protein": 25.5,
+    "carbs": 11.2,
+    "fat": 50.9
+  },
+  {
+    "name": "Pollo, entero, con piel, asado",
+    "kcal": 176.7,
+    "protein": 32.6,
+    "carbs": 0.0,
+    "fat": 5.0
+  },
+  {
+    "name": "Vaca/buey, solomillo, crudo",
+    "kcal": 135.3,
+    "protein": 23.5,
+    "carbs": 0.0,
+    "fat": 4.5
+  },
+  {
+    "name": "Salchicha, tipo viena",
+    "kcal": 272.8,
+    "protein": 10.3,
+    "carbs": 2.0,
+    "fat": 25.2
+  },
+  {
+    "name": "Lengua, de buey, cruda",
+    "kcal": 217.9,
+    "protein": 14.9,
+    "carbs": 3.7,
+    "fat": 16.1
+  },
+  {
+    "name": "Ternera, solomillo, asado",
+    "kcal": 156.4,
+    "protein": 28.4,
+    "carbs": 0.0,
+    "fat": 4.6
+  },
+  {
+    "name": "Lengua, de ternera, cruda",
+    "kcal": 135.1,
+    "protein": 17.8,
+    "carbs": 0.0,
+    "fat": 7.1
+  },
+  {
+    "name": "Liebre, entera, cruda",
+    "kcal": 192.2,
+    "protein": 29.9,
+    "carbs": 0.0,
+    "fat": 8.0
+  },
+  {
+    "name": "Salchicha, tipo país, a la plancha",
+    "kcal": 384.0,
+    "protein": 18.6,
+    "carbs": 0.9,
+    "fat": 34.5
+  },
+  {
+    "name": "Ternera, parte s/e, asada",
+    "kcal": 221.0,
+    "protein": 29.5,
+    "carbs": 0.0,
+    "fat": 11.4
+  },
+  {
+    "name": "Pavo, pechuga, sin piel, a la plancha",
+    "kcal": 144.9,
+    "protein": 29.9,
+    "carbs": 0.0,
+    "fat": 2.6
+  },
+  {
+    "name": "Ternera, lomo, crudo, con grasa separable",
+    "kcal": 111.3,
+    "protein": 20.2,
+    "carbs": 0.0,
+    "fat": 3.3
+  },
+  {
+    "name": "Pollo, muslo, con piel, asado",
+    "kcal": 226.2,
+    "protein": 26.3,
+    "carbs": 0.0,
+    "fat": 13.5
+  },
+  {
+    "name": "Pollo, muslo, con piel, crudo",
+    "kcal": 109.3,
+    "protein": 19.5,
+    "carbs": 0.0,
+    "fat": 3.4
+  },
+  {
+    "name": "Pollo, pechuga, con piel, crudo",
+    "kcal": 104.5,
+    "protein": 23.1,
+    "carbs": 0.0,
+    "fat": 1.2
+  },
+  {
+    "name": "Vaca/buey, parte s/e, asado",
+    "kcal": 229.7,
+    "protein": 31.0,
+    "carbs": 0.0,
+    "fat": 11.7
+  },
+  {
+    "name": "Vaca/buey, solomillo, a la plancha",
+    "kcal": 165.9,
+    "protein": 28.1,
+    "carbs": 0.0,
+    "fat": 5.8
+  },
+  {
+    "name": "Vaca/buey, parte s/e, estofado",
+    "kcal": 195.6,
+    "protein": 30.0,
+    "carbs": 0.0,
+    "fat": 8.3
+  },
+  {
+    "name": "Grosella, cruda",
+    "kcal": 26.6,
+    "protein": 1.1,
+    "carbs": 5.0,
+    "fat": 0.2
+  },
+  {
+    "name": "Leche de cabra",
+    "kcal": 64.4,
+    "protein": 3.4,
+    "carbs": 4.4,
+    "fat": 3.7
+  },
+  {
+    "name": "Lima, cruda",
+    "kcal": 8.3,
+    "protein": 0.6,
+    "carbs": 1.0,
+    "fat": 0.2
+  },
+  {
+    "name": "Leche de oveja",
+    "kcal": 99.2,
+    "protein": 5.6,
+    "carbs": 5.0,
+    "fat": 6.3
+  },
+  {
+    "name": "Litchi, crudo",
+    "kcal": 66.9,
+    "protein": 0.9,
+    "carbs": 14.6,
+    "fat": 0.4
+  },
+  {
+    "name": "Queso Cheddar",
+    "kcal": 403.2,
+    "protein": 26.0,
+    "carbs": 0.1,
+    "fat": 33.6
+  },
+  {
+    "name": "Membrillo, crudo",
+    "kcal": 28.8,
+    "protein": 0.3,
+    "carbs": 6.3,
+    "fat": 0.2
+  },
+  {
+    "name": "Petit Suisse, natural azucarado",
+    "kcal": 121.3,
+    "protein": 7.3,
+    "carbs": 14.4,
+    "fat": 3.8
+  },
+  {
+    "name": "Papaya, cruda",
+    "kcal": 33.3,
+    "protein": 0.5,
+    "carbs": 7.6,
+    "fat": 0.0
+  },
+  {
+    "name": "Arroz integral, hervido",
+    "kcal": 111.6,
+    "protein": 2.6,
+    "carbs": 22.9,
+    "fat": 0.9
+  },
+  {
+    "name": "Avena, cruda",
+    "kcal": 399.1,
+    "protein": 16.9,
+    "carbs": 66.3,
+    "fat": 6.9
+  },
+  {
+    "name": "Queso Gruyer",
+    "kcal": 373.4,
+    "protein": 23.4,
+    "carbs": 0.4,
+    "fat": 31.3
+  },
+  {
+    "name": "Almidón de maíz",
+    "kcal": 372.5,
+    "protein": 0.3,
+    "carbs": 91.3,
+    "fat": 0.0
+  },
+  {
+    "name": "Pera, enlatada en almíbar",
+    "kcal": 61.5,
+    "protein": 0.2,
+    "carbs": 14.5,
+    "fat": 0.2
+  },
+  {
+    "name": "Cebada, cruda",
+    "kcal": 321.7,
+    "protein": 10.6,
+    "carbs": 64.0,
+    "fat": 2.1
+  },
+  {
+    "name": "Agua, con gas, embotellada",
+    "kcal": 0.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Uva negra, cruda",
+    "kcal": 71.6,
+    "protein": 0.6,
+    "carbs": 15.5,
+    "fat": 0.7
+  },
+  {
+    "name": "Cereales desayuno base de arroz chocolateado",
+    "kcal": 386.0,
+    "protein": 6.0,
+    "carbs": 86.6,
+    "fat": 1.1
+  },
+  {
+    "name": "Café, en grano o molido, descafeinado",
+    "kcal": 302.0,
+    "protein": 10.4,
+    "carbs": 30.4,
+    "fat": 15.4
+  },
+  {
+    "name": "Garbanzo, seco, crudo",
+    "kcal": 334.2,
+    "protein": 19.3,
+    "carbs": 49.2,
+    "fat": 6.3
+  },
+  {
+    "name": "Cerdo, solomillo, crudo",
+    "kcal": 130.4,
+    "protein": 21.0,
+    "carbs": 0.0,
+    "fat": 5.1
+  },
+  {
+    "name": "Anís, seco",
+    "kcal": 264.0,
+    "protein": 0.0,
+    "carbs": 1.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Corazón, de vaca/buey, crudo",
+    "kcal": 104.0,
+    "protein": 17.0,
+    "carbs": 0.0,
+    "fat": 4.0
+  },
+  {
+    "name": "Cereales desayuno base de arroz y miel",
+    "kcal": 383.1,
+    "protein": 5.1,
+    "carbs": 87.0,
+    "fat": 1.0
+  },
+  {
+    "name": "Néctar de ciruela",
+    "kcal": 15.0,
+    "protein": 0.3,
+    "carbs": 3.4,
+    "fat": 0.0
+  },
+  {
+    "name": "Cereales desayuno base de arroz, trigo y fruta",
+    "kcal": 354.3,
+    "protein": 5.8,
+    "carbs": 76.6,
+    "fat": 2.2
+  },
+  {
+    "name": "Ternera, solomillo, sin grasa, crudo",
+    "kcal": 109.1,
+    "protein": 20.2,
+    "carbs": 0.0,
+    "fat": 3.1
+  },
+  {
+    "name": "Ternera, costilla, cruda",
+    "kcal": 139.7,
+    "protein": 20.0,
+    "carbs": 0.0,
+    "fat": 6.6
+  },
+  {
+    "name": "Cereales desayuno base de maíz y miel",
+    "kcal": 392.6,
+    "protein": 6.0,
+    "carbs": 83.0,
+    "fat": 3.5
+  },
+  {
+    "name": "Cereales desayuno base de maíz y trigo",
+    "kcal": 379.2,
+    "protein": 6.0,
+    "carbs": 80.8,
+    "fat": 3.0
+  },
+  {
+    "name": "Cereales desayuno base de trigo azucarado",
+    "kcal": 383.0,
+    "protein": 7.0,
+    "carbs": 84.0,
+    "fat": 1.5
+  },
+  {
+    "name": "Cereales desayuno base de trigo y arroz",
+    "kcal": 378.6,
+    "protein": 16.0,
+    "carbs": 75.0,
+    "fat": 1.0
+  },
+  {
+    "name": "Cereales desayuno base de trigo y frutas",
+    "kcal": 365.2,
+    "protein": 8.0,
+    "carbs": 71.0,
+    "fat": 5.0
+  },
+  {
+    "name": "Cereales desayuno base de trigo y miel",
+    "kcal": 394.9,
+    "protein": 5.7,
+    "carbs": 88.0,
+    "fat": 1.6
+  },
+  {
+    "name": "Cereales desayuno base de trigo, avena, maiz y miel",
+    "kcal": 396.8,
+    "protein": 8.0,
+    "carbs": 79.0,
+    "fat": 4.9
+  },
+  {
+    "name": "Cereales desayuno base de trigo, avena, maíz, miel y nueces",
+    "kcal": 391.0,
+    "protein": 11.0,
+    "carbs": 80.0,
+    "fat": 2.4
+  },
+  {
+    "name": "Cereales desayuno, maíz azucarado",
+    "kcal": 380.3,
+    "protein": 4.5,
+    "carbs": 88.0,
+    "fat": 0.5
+  },
+  {
+    "name": "Croissant de chocolate",
+    "kcal": 478.6,
+    "protein": 5.6,
+    "carbs": 79.1,
+    "fat": 15.2
+  },
+  {
+    "name": "Donut, de chocolate",
+    "kcal": 452.2,
+    "protein": 4.9,
+    "carbs": 51.3,
+    "fat": 25.2
+  },
+  {
+    "name": "Guisante, congelado, hervido",
+    "kcal": 60.3,
+    "protein": 6.0,
+    "carbs": 6.9,
+    "fat": 0.9
+  },
+  {
+    "name": "Galleta ,tipo \"digestiva\", con chocolate",
+    "kcal": 510.9,
+    "protein": 6.8,
+    "carbs": 66.5,
+    "fat": 24.1
+  },
+  {
+    "name": "Sesos, de ternera, crudos",
+    "kcal": 118.3,
+    "protein": 10.4,
+    "carbs": 0.0,
+    "fat": 8.6
+  },
+  {
+    "name": "Galleta, barquillo, con jalea de frutas",
+    "kcal": 367.7,
+    "protein": 5.2,
+    "carbs": 73.0,
+    "fat": 5.6
+  },
+  {
+    "name": "Guisante, seco, crudo",
+    "kcal": 335.6,
+    "protein": 21.6,
+    "carbs": 56.0,
+    "fat": 2.3
+  },
+  {
+    "name": "Galleta, cubierta de chocolate",
+    "kcal": 541.1,
+    "protein": 5.7,
+    "carbs": 67.4,
+    "fat": 27.6
+  },
+  {
+    "name": "Galletas, con chocolate, tipo \"cookies\"",
+    "kcal": 489.1,
+    "protein": 6.2,
+    "carbs": 64.3,
+    "fat": 22.9
+  },
+  {
+    "name": "Galletas, de mantequilla",
+    "kcal": 481.6,
+    "protein": 7.0,
+    "carbs": 68.0,
+    "fat": 20.0
+  },
+  {
+    "name": "Hígado, de vaca/buey, crudo",
+    "kcal": 135.5,
+    "protein": 21.1,
+    "carbs": 3.5,
+    "fat": 4.0
+  },
+  {
+    "name": "Harina de avena",
+    "kcal": 352.0,
+    "protein": 15.0,
+    "carbs": 57.7,
+    "fat": 6.4
+  },
+  {
+    "name": "Harina de avena, cocida en agua",
+    "kcal": 46.2,
+    "protein": 1.4,
+    "carbs": 8.0,
+    "fat": 0.9
+  },
+  {
+    "name": "Harina de cebada",
+    "kcal": 359.5,
+    "protein": 10.5,
+    "carbs": 74.5,
+    "fat": 1.6
+  },
+  {
+    "name": "Néctar de frutas exóticas, envasado",
+    "kcal": 55.3,
+    "protein": 0.4,
+    "carbs": 13.2,
+    "fat": 0.0
+  },
+  {
+    "name": "Pavo, muslo, con piel, crudo",
+    "kcal": 150.7,
+    "protein": 18.9,
+    "carbs": 0.0,
+    "fat": 8.4
+  },
+  {
+    "name": "Masa de hojaldre, cruda",
+    "kcal": 408.0,
+    "protein": 4.8,
+    "carbs": 31.7,
+    "fat": 29.4
+  },
+  {
+    "name": "Néctar de mango, envasado",
+    "kcal": 56.5,
+    "protein": 0.2,
+    "carbs": 13.7,
+    "fat": 0.0
+  },
+  {
+    "name": "Napolitana, rellena con crema de cacao",
+    "kcal": 466.3,
+    "protein": 7.0,
+    "carbs": 49.0,
+    "fat": 27.0
+  },
+  {
+    "name": "Riñón, de cordero, crudo",
+    "kcal": 94.8,
+    "protein": 16.8,
+    "carbs": 0.0,
+    "fat": 3.0
+  },
+  {
+    "name": "Pan blanco, de barra, sin sal",
+    "kcal": 261.7,
+    "protein": 8.0,
+    "carbs": 53.9,
+    "fat": 1.1
+  },
+  {
+    "name": "Lenteja, seca, cruda",
+    "kcal": 308.9,
+    "protein": 24.8,
+    "carbs": 48.7,
+    "fat": 1.2
+  },
+  {
+    "name": "Pan blanco, tipo \"baguette\"",
+    "kcal": 269.8,
+    "protein": 8.0,
+    "carbs": 55.9,
+    "fat": 1.1
+  },
+  {
+    "name": "Pan de avena",
+    "kcal": 270.1,
+    "protein": 8.4,
+    "carbs": 48.5,
+    "fat": 4.4
+  },
+  {
+    "name": "Zumo de piña y uva",
+    "kcal": 55.3,
+    "protein": 0.6,
+    "carbs": 13.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Riñón, de ternera, crudo",
+    "kcal": 106.5,
+    "protein": 16.8,
+    "carbs": 0.0,
+    "fat": 4.3
+  },
+  {
+    "name": "Pan de cebada",
+    "kcal": 197.8,
+    "protein": 6.4,
+    "carbs": 39.9,
+    "fat": 1.1
+  },
+  {
+    "name": "Pan de maíz",
+    "kcal": 313.1,
+    "protein": 7.2,
+    "carbs": 48.1,
+    "fat": 10.0
+  },
+  {
+    "name": "Pasta alimenticia, con huevo, hervida",
+    "kcal": 125.3,
+    "protein": 4.7,
+    "carbs": 22.9,
+    "fat": 1.5
+  },
+  {
+    "name": "Pasta alimenticia, con vegetales, cruda",
+    "kcal": 338.7,
+    "protein": 12.0,
+    "carbs": 67.0,
+    "fat": 2.0
+  },
+  {
+    "name": "Pasta alimenticia, integral, cruda",
+    "kcal": 345.5,
+    "protein": 13.4,
+    "carbs": 66.2,
+    "fat": 2.5
+  },
+  {
+    "name": "Sesos, de cerdo, crudos",
+    "kcal": 122.7,
+    "protein": 10.6,
+    "carbs": 0.0,
+    "fat": 9.0
+  },
+  {
+    "name": "Pasta alimenticia, integral, hervida",
+    "kcal": 121.3,
+    "protein": 4.7,
+    "carbs": 23.2,
+    "fat": 0.9
+  },
+  {
+    "name": "Pasta alimenticia, rellena con carne, hervida",
+    "kcal": 100.5,
+    "protein": 4.7,
+    "carbs": 12.7,
+    "fat": 3.4
+  },
+  {
+    "name": "Pastel de manzana",
+    "kcal": 381.9,
+    "protein": 3.5,
+    "carbs": 57.4,
+    "fat": 15.2
+  },
+  {
+    "name": "Zumo de pomelo, envasado",
+    "kcal": 37.8,
+    "protein": 0.5,
+    "carbs": 8.8,
+    "fat": 0.0
+  },
+  {
+    "name": "Sesos, de cordero, crudos",
+    "kcal": 135.3,
+    "protein": 10.0,
+    "carbs": 0.0,
+    "fat": 10.7
+  },
+  {
+    "name": "Zumo de mango",
+    "kcal": 42.0,
+    "protein": 0.1,
+    "carbs": 9.8,
+    "fat": 0.2
+  },
+  {
+    "name": "Quinoa, cruda",
+    "kcal": 305.1,
+    "protein": 13.8,
+    "carbs": 49.2,
+    "fat": 5.6
+  },
+  {
+    "name": "Sémola de trigo, cruda",
+    "kcal": 348.2,
+    "protein": 12.6,
+    "carbs": 70.4,
+    "fat": 1.2
+  },
+  {
+    "name": "Sémola de trigo, hervida",
+    "kcal": 54.6,
+    "protein": 2.0,
+    "carbs": 11.0,
+    "fat": 0.2
+  },
+  {
+    "name": "Sobao",
+    "kcal": 436.6,
+    "protein": 5.9,
+    "carbs": 46.7,
+    "fat": 25.2
+  },
+  {
+    "name": "Trigo, entero, crudo",
+    "kcal": 313.1,
+    "protein": 11.7,
+    "carbs": 61.0,
+    "fat": 2.0
+  },
+  {
+    "name": "Zumo de lima, envasado",
+    "kcal": 15.3,
+    "protein": 0.3,
+    "carbs": 3.2,
+    "fat": 0.1
+  },
+  {
+    "name": "Zumo de grosella roja",
+    "kcal": 55.3,
+    "protein": 0.4,
+    "carbs": 13.2,
+    "fat": 0.0
+  },
+  {
+    "name": "Zumo de grosella negra",
+    "kcal": 34.1,
+    "protein": 0.8,
+    "carbs": 7.6,
+    "fat": 0.0
+  },
+  {
+    "name": "Vodka",
+    "kcal": 232.2,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Té, infusión, con leche",
+    "kcal": 37.8,
+    "protein": 1.7,
+    "carbs": 2.5,
+    "fat": 2.4
+  },
+  {
+    "name": "Vermut, s/e",
+    "kcal": 139.1,
+    "protein": 0.1,
+    "carbs": 13.5,
+    "fat": 0.0
+  },
+  {
+    "name": "Ron",
+    "kcal": 231.5,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Refresco, sabor naranja, sin gas",
+    "kcal": 38.5,
+    "protein": 0.1,
+    "carbs": 9.4,
+    "fat": 0.0
+  },
+  {
+    "name": "Refresco, sabor limón, con gas",
+    "kcal": 46.1,
+    "protein": 0.0,
+    "carbs": 11.3,
+    "fat": 0.0
+  },
+  {
+    "name": "Néctar de pomelo",
+    "kcal": 14.6,
+    "protein": 0.2,
+    "carbs": 3.4,
+    "fat": 0.0
+  },
+  {
+    "name": "Néctar de piña",
+    "kcal": 22.3,
+    "protein": 0.2,
+    "carbs": 5.3,
+    "fat": 0.0
+  },
+  {
+    "name": "Néctar de pera, envasado",
+    "kcal": 64.6,
+    "protein": 0.2,
+    "carbs": 15.7,
+    "fat": 0.0
+  },
+  {
+    "name": "Galleta, tipo \"Digestiva\"",
+    "kcal": 466.5,
+    "protein": 6.3,
+    "carbs": 63.2,
+    "fat": 20.8
+  },
+  {
+    "name": "Néctar de naranja, envasado",
+    "kcal": 42.3,
+    "protein": 0.3,
+    "carbs": 10.1,
+    "fat": 0.0
+  },
+  {
+    "name": "Néctar de melocotón",
+    "kcal": 17.1,
+    "protein": 0.2,
+    "carbs": 4.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Néctar de maracuyá, envasado",
+    "kcal": 52.8,
+    "protein": 0.2,
+    "carbs": 12.8,
+    "fat": 0.0
+  },
+  {
+    "name": "Néctar de albaricoque, envasado",
+    "kcal": 57.7,
+    "protein": 0.4,
+    "carbs": 13.8,
+    "fat": 0.0
+  },
+  {
+    "name": "Coñac",
+    "kcal": 232.2,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Cerveza, oscura, 8°- 9°",
+    "kcal": 66.4,
+    "protein": 0.6,
+    "carbs": 5.3,
+    "fat": 0.0
+  },
+  {
+    "name": "Café, en polvo, sin reconstituir",
+    "kcal": 110.3,
+    "protein": 18.5,
+    "carbs": 8.0,
+    "fat": 0.3
+  },
+  {
+    "name": "Soda",
+    "kcal": 0.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Germen de trigo",
+    "kcal": 335.1,
+    "protein": 25.0,
+    "carbs": 33.3,
+    "fat": 11.1
+  },
+  {
+    "name": "Harina de centeno",
+    "kcal": 357.6,
+    "protein": 8.2,
+    "carbs": 75.9,
+    "fat": 1.8
+  },
+  {
+    "name": "Harina de trigo, integral",
+    "kcal": 320.4,
+    "protein": 11.5,
+    "carbs": 62.6,
+    "fat": 2.2
+  },
+  {
+    "name": "Maíz, en mazorca, crudo",
+    "kcal": 390.1,
+    "protein": 8.4,
+    "carbs": 85.6,
+    "fat": 0.9
+  },
+  {
+    "name": "Pastel con fruta confitada",
+    "kcal": 367.3,
+    "protein": 5.1,
+    "carbs": 57.0,
+    "fat": 13.0
+  },
+  {
+    "name": "Pastel de chocolate",
+    "kcal": 437.9,
+    "protein": 5.2,
+    "carbs": 41.8,
+    "fat": 27.9
+  },
+  {
+    "name": "Pasta alimenticia, cruda",
+    "kcal": 351.7,
+    "protein": 12.5,
+    "carbs": 70.9,
+    "fat": 1.4
+  },
+  {
+    "name": "Pasta alimenticia, con huevo, cruda",
+    "kcal": 373.0,
+    "protein": 13.5,
+    "carbs": 69.2,
+    "fat": 4.2
+  },
+  {
+    "name": "Cereales para el desayuno, ricos en fibra, tipo \"all-bran\"",
+    "kcal": 266.0,
+    "protein": 14.0,
+    "carbs": 45.6,
+    "fat": 2.7
+  },
+  {
+    "name": "Arroz hinchado, para el desayuno, enriquecido",
+    "kcal": 387.2,
+    "protein": 6.3,
+    "carbs": 87.7,
+    "fat": 0.6
+  },
+  {
+    "name": "Tofu",
+    "kcal": 118.7,
+    "protein": 11.5,
+    "carbs": 3.3,
+    "fat": 6.6
+  },
+  {
+    "name": "Soja, seca, remojada, hervida",
+    "kcal": 136.3,
+    "protein": 14.0,
+    "carbs": 3.8,
+    "fat": 7.2
+  },
+  {
+    "name": "Haba, seca",
+    "kcal": 356.2,
+    "protein": 26.1,
+    "carbs": 58.3,
+    "fat": 1.5
+  },
+  {
+    "name": "Soja, fresca",
+    "kcal": 158.1,
+    "protein": 13.0,
+    "carbs": 11.1,
+    "fat": 6.8
+  },
+  {
+    "name": "Harina de soja",
+    "kcal": 410.0,
+    "protein": 37.3,
+    "carbs": 13.0,
+    "fat": 23.2
+  },
+  {
+    "name": "Lenteja, en conserva",
+    "kcal": 73.7,
+    "protein": 6.3,
+    "carbs": 11.4,
+    "fat": 0.2
+  },
+  {
+    "name": "Sésamo, semilla",
+    "kcal": 560.0,
+    "protein": 19.0,
+    "carbs": 10.0,
+    "fat": 50.0
+  },
+  {
+    "name": "Haba, seca, remojada, hervida",
+    "kcal": 58.1,
+    "protein": 5.8,
+    "carbs": 7.2,
+    "fat": 0.6
+  },
+  {
+    "name": "Soja, seca, cruda",
+    "kcal": 350.0,
+    "protein": 35.9,
+    "carbs": 9.7,
+    "fat": 18.6
+  },
+  {
+    "name": "Yogur, enriquecido, natural, con nata",
+    "kcal": 66.1,
+    "protein": 3.1,
+    "carbs": 4.9,
+    "fat": 3.8
+  },
+  {
+    "name": "Yogur, enriquecido, con frutas",
+    "kcal": 121.5,
+    "protein": 2.6,
+    "carbs": 21.0,
+    "fat": 2.9
+  },
+  {
+    "name": "Yogur líquido, natural, azucarado",
+    "kcal": 69.6,
+    "protein": 3.0,
+    "carbs": 11.6,
+    "fat": 1.2
+  },
+  {
+    "name": "Yogur, desnatado, con cereza y frambuesa",
+    "kcal": 40.2,
+    "protein": 4.0,
+    "carbs": 5.7,
+    "fat": 0.1
+  },
+  {
+    "name": "Yogur, desnatado, con frutas del bosque",
+    "kcal": 40.2,
+    "protein": 4.0,
+    "carbs": 5.7,
+    "fat": 0.1
+  },
+  {
+    "name": "Yogur, desnatado, con frutas tropicales",
+    "kcal": 40.2,
+    "protein": 4.0,
+    "carbs": 5.7,
+    "fat": 0.1
+  },
+  {
+    "name": "Yogur, desnatado, con manzana",
+    "kcal": 40.2,
+    "protein": 4.0,
+    "carbs": 5.7,
+    "fat": 0.1
+  },
+  {
+    "name": "Yogur, enriquecido, natural",
+    "kcal": 63.3,
+    "protein": 3.2,
+    "carbs": 3.9,
+    "fat": 3.9
+  },
+  {
+    "name": "Yogur, desnatado, con melocotón y maracuyá",
+    "kcal": 40.2,
+    "protein": 4.0,
+    "carbs": 5.7,
+    "fat": 0.1
+  },
+  {
+    "name": "Yogur, enriquecido, natural, azucarado",
+    "kcal": 99.3,
+    "protein": 3.1,
+    "carbs": 13.5,
+    "fat": 3.6
+  },
+  {
+    "name": "Yogur, desnatado, con piña y pomelo",
+    "kcal": 40.2,
+    "protein": 4.0,
+    "carbs": 5.7,
+    "fat": 0.1
+  },
+  {
+    "name": "Yogur, enriquecido, sabor, s/e",
+    "kcal": 197.2,
+    "protein": 3.7,
+    "carbs": 37.0,
+    "fat": 3.6
+  },
+  {
+    "name": "Yogur, líquido, desnatado, natural",
+    "kcal": 64.8,
+    "protein": 3.0,
+    "carbs": 12.3,
+    "fat": 0.3
+  },
+  {
+    "name": "Yogur, desnatado, sabor vainilla",
+    "kcal": 106.9,
+    "protein": 5.3,
+    "carbs": 17.1,
+    "fat": 1.8
+  },
+  {
+    "name": "Yogur, entero, con fresas",
+    "kcal": 120.0,
+    "protein": 2.7,
+    "carbs": 21.4,
+    "fat": 2.5
+  },
+  {
+    "name": "Yogur líquido, con frutas s/e",
+    "kcal": 87.2,
+    "protein": 2.8,
+    "carbs": 14.3,
+    "fat": 1.5
+  },
+  {
+    "name": "Fuet",
+    "kcal": 473.0,
+    "protein": 19.5,
+    "carbs": 5.5,
+    "fat": 42.0
+  },
+  {
+    "name": "Conejo de granja, carne, cruda",
+    "kcal": 131.0,
+    "protein": 20.7,
+    "carbs": 0.0,
+    "fat": 5.3
+  },
+  {
+    "name": "Bacalao, salado, crudo",
+    "kcal": 320.2,
+    "protein": 75.0,
+    "carbs": 0.0,
+    "fat": 1.8
+  },
+  {
+    "name": "Calamar, conserva",
+    "kcal": 88.8,
+    "protein": 17.0,
+    "carbs": 0.5,
+    "fat": 2.0
+  },
+  {
+    "name": "Confitura, frutas s/e, baja en calorías",
+    "kcal": 225.5,
+    "protein": 0.5,
+    "carbs": 55.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Guayaba, enlatada en almíbar",
+    "kcal": 65.4,
+    "protein": 0.4,
+    "carbs": 15.7,
+    "fat": 0.0
+  },
+  {
+    "name": "Piña, enlatada en su jugo",
+    "kcal": 49.3,
+    "protein": 0.3,
+    "carbs": 11.8,
+    "fat": 0.0
+  },
+  {
+    "name": "Kefir",
+    "kcal": 63.9,
+    "protein": 3.3,
+    "carbs": 4.8,
+    "fat": 3.5
+  },
+  {
+    "name": "Angula, cruda",
+    "kcal": 212.1,
+    "protein": 16.3,
+    "carbs": 0.0,
+    "fat": 16.5
+  },
+  {
+    "name": "Ciruela, con piel, cruda",
+    "kcal": 53.6,
+    "protein": 0.8,
+    "carbs": 12.0,
+    "fat": 0.2
+  },
+  {
+    "name": "Huevo de gallina, clara, cruda",
+    "kcal": 44.8,
+    "protein": 10.5,
+    "carbs": 0.3,
+    "fat": 0.1
+  },
+  {
+    "name": "Pescadilla, congelada, cruda",
+    "kcal": 55.1,
+    "protein": 11.8,
+    "carbs": 0.0,
+    "fat": 0.8
+  },
+  {
+    "name": "Guisante, congelado, crudo",
+    "kcal": 62.1,
+    "protein": 5.4,
+    "carbs": 8.8,
+    "fat": 0.5
+  },
+  {
+    "name": "Alcachofa, cruda",
+    "kcal": 22.7,
+    "protein": 2.9,
+    "carbs": 2.3,
+    "fat": 0.2
+  },
+  {
+    "name": "Brécol, crudo",
+    "kcal": 25.5,
+    "protein": 3.0,
+    "carbs": 2.4,
+    "fat": 0.4
+  },
+  {
+    "name": "Col lombarda, hervida",
+    "kcal": 17.9,
+    "protein": 1.0,
+    "carbs": 2.8,
+    "fat": 0.3
+  },
+  {
+    "name": "Espárrago, verde",
+    "kcal": 25.2,
+    "protein": 2.9,
+    "carbs": 2.0,
+    "fat": 0.6
+  },
+  {
+    "name": "Col de bruselas, cruda",
+    "kcal": 34.9,
+    "protein": 4.0,
+    "carbs": 3.5,
+    "fat": 0.5
+  },
+  {
+    "name": "Sofrito",
+    "kcal": 209.1,
+    "protein": 1.1,
+    "carbs": 4.7,
+    "fat": 21.0
+  },
+  {
+    "name": "Calabaza, hervida",
+    "kcal": 12.3,
+    "protein": 0.6,
+    "carbs": 2.1,
+    "fat": 0.1
+  },
+  {
+    "name": "Grosella negra, cruda",
+    "kcal": 35.8,
+    "protein": 1.5,
+    "carbs": 7.1,
+    "fat": 0.1
+  },
+  {
+    "name": "Mango, crudo",
+    "kcal": 58.7,
+    "protein": 0.6,
+    "carbs": 13.4,
+    "fat": 0.2
+  },
+  {
+    "name": "Centeno, crudo",
+    "kcal": 406.5,
+    "protein": 14.8,
+    "carbs": 79.8,
+    "fat": 2.5
+  },
+  {
+    "name": "Cereales desayuno base de maíz, trigo y avena",
+    "kcal": 414.0,
+    "protein": 6.2,
+    "carbs": 80.9,
+    "fat": 6.8
+  },
+  {
+    "name": "Jamón ibérico de cebo",
+    "kcal": 301.4,
+    "protein": 32.3,
+    "carbs": 0.1,
+    "fat": 19.2
+  },
+  {
+    "name": "Jamón ibérico de bellota",
+    "kcal": 333.2,
+    "protein": 33.2,
+    "carbs": 0.5,
+    "fat": 22.2
+  },
+  {
+    "name": "Kebab",
+    "kcal": 303.5,
+    "protein": 8.8,
+    "carbs": 16.7,
+    "fat": 7.9
+  },
+  {
+    "name": "Vinagre de vino",
+    "kcal": 4.1,
+    "protein": 0.4,
+    "carbs": 0.6,
+    "fat": 0.0
+  },
+  {
+    "name": "Huevo de gallina, yema, cruda",
+    "kcal": 354.9,
+    "protein": 16.5,
+    "carbs": 2.3,
+    "fat": 31.5
+  },
+  {
+    "name": "Huevo de gallina, hervido, duro",
+    "kcal": 144.9,
+    "protein": 12.5,
+    "carbs": 0.3,
+    "fat": 10.5
+  },
+  {
+    "name": "Huevo de gallina fresco",
+    "kcal": 148.9,
+    "protein": 12.5,
+    "carbs": 0.0,
+    "fat": 11.1
+  },
+  {
+    "name": "Anchoas en aceite vegetal",
+    "kcal": 203.3,
+    "protein": 28.9,
+    "carbs": 0.0,
+    "fat": 9.7
+  },
+  {
+    "name": "Atún en aceite de oliva isabel",
+    "kcal": 179.2,
+    "protein": 26.5,
+    "carbs": 0.0,
+    "fat": 8.1
+  },
+  {
+    "name": "Atun en aceite vegetal",
+    "kcal": 203.7,
+    "protein": 23.8,
+    "carbs": 0.0,
+    "fat": 12.1
+  },
+  {
+    "name": "Atún en escabeche",
+    "kcal": 100.8,
+    "protein": 23.5,
+    "carbs": 0.0,
+    "fat": 0.6
+  },
+  {
+    "name": "Atún, al natural",
+    "kcal": 100.8,
+    "protein": 23.5,
+    "carbs": 0.0,
+    "fat": 0.6
+  },
+  {
+    "name": "Atún, crudo",
+    "kcal": 118.6,
+    "protein": 22.0,
+    "carbs": 0.0,
+    "fat": 3.3
+  },
+  {
+    "name": "Atún, plancha",
+    "kcal": 199.6,
+    "protein": 23.0,
+    "carbs": 0.0,
+    "fat": 12.0
+  },
+  {
+    "name": "Bacaladilla",
+    "kcal": 76.9,
+    "protein": 17.4,
+    "carbs": 0.0,
+    "fat": 0.7
+  },
+  {
+    "name": "Cereales desayuno base muesli",
+    "kcal": 370.2,
+    "protein": 10.3,
+    "carbs": 65.8,
+    "fat": 6.9
+  },
+  {
+    "name": "Mijo",
+    "kcal": 343.5,
+    "protein": 11.0,
+    "carbs": 64.4,
+    "fat": 4.2
+  },
+  {
+    "name": "Miso",
+    "kcal": 208.2,
+    "protein": 11.7,
+    "carbs": 26.5,
+    "fat": 6.0
+  },
+  {
+    "name": "Muesli",
+    "kcal": 381.7,
+    "protein": 9.0,
+    "carbs": 61.0,
+    "fat": 11.0
+  },
+  {
+    "name": "Palmera",
+    "kcal": 533.5,
+    "protein": 5.0,
+    "carbs": 61.0,
+    "fat": 30.0
+  },
+  {
+    "name": "Pan blanco, de barra",
+    "kcal": 238.8,
+    "protein": 8.3,
+    "carbs": 47.0,
+    "fat": 1.6
+  },
+  {
+    "name": "Pan blanco, de molde, tostado",
+    "kcal": 248.1,
+    "protein": 7.3,
+    "carbs": 45.7,
+    "fat": 3.7
+  },
+  {
+    "name": "Pan blanco, frito",
+    "kcal": 259.2,
+    "protein": 8.8,
+    "carbs": 51.5,
+    "fat": 1.6
+  },
+  {
+    "name": "Pan integral",
+    "kcal": 249.6,
+    "protein": 10.9,
+    "carbs": 44.0,
+    "fat": 3.0
+  },
+  {
+    "name": "Pan integral, de molde, tostado",
+    "kcal": 249.6,
+    "protein": 10.9,
+    "carbs": 44.0,
+    "fat": 3.0
+  },
+  {
+    "name": "Pan blanco, tostado",
+    "kcal": 303.7,
+    "protein": 10.1,
+    "carbs": 59.2,
+    "fat": 2.5
+  },
+  {
+    "name": "Pan blanco, tostado sin sal",
+    "kcal": 303.7,
+    "protein": 10.1,
+    "carbs": 59.2,
+    "fat": 2.5
+  },
+  {
+    "name": "Pan de centeno",
+    "kcal": 220.2,
+    "protein": 6.2,
+    "carbs": 45.8,
+    "fat": 1.0
+  },
+  {
+    "name": "Pan de leche",
+    "kcal": 414.1,
+    "protein": 10.0,
+    "carbs": 52.1,
+    "fat": 18.3
+  },
+  {
+    "name": "Pan integral, sin sal",
+    "kcal": 249.6,
+    "protein": 10.9,
+    "carbs": 44.0,
+    "fat": 3.0
+  },
+  {
+    "name": "Pan integral, tostado",
+    "kcal": 267.4,
+    "protein": 10.8,
+    "carbs": 48.7,
+    "fat": 2.9
+  },
+  {
+    "name": "Pan rallado",
+    "kcal": 257.8,
+    "protein": 8.5,
+    "carbs": 51.5,
+    "fat": 1.6
+  },
+  {
+    "name": "Pan tostado integral",
+    "kcal": 303.7,
+    "protein": 10.1,
+    "carbs": 59.2,
+    "fat": 2.5
+  },
+  {
+    "name": "Pan, tipo hamburguesa",
+    "kcal": 265.2,
+    "protein": 7.5,
+    "carbs": 47.5,
+    "fat": 4.7
+  },
+  {
+    "name": "Pastas de te",
+    "kcal": 346.4,
+    "protein": 8.9,
+    "carbs": 58.3,
+    "fat": 8.3
+  },
+  {
+    "name": "Rosquilla",
+    "kcal": 348.7,
+    "protein": 7.8,
+    "carbs": 49.3,
+    "fat": 13.2
+  },
+  {
+    "name": "Salvado de trigo",
+    "kcal": 189.0,
+    "protein": 15.6,
+    "carbs": 21.7,
+    "fat": 4.2
+  },
+  {
+    "name": "Semilla de lino",
+    "kcal": 564.5,
+    "protein": 18.3,
+    "carbs": 28.9,
+    "fat": 42.2
+  },
+  {
+    "name": "Torta de aceite",
+    "kcal": 151.4,
+    "protein": 1.9,
+    "carbs": 21.0,
+    "fat": 6.6
+  },
+  {
+    "name": "Almendra, cruda, con cáscara",
+    "kcal": 586.4,
+    "protein": 21.2,
+    "carbs": 5.4,
+    "fat": 54.1
+  },
+  {
+    "name": "Almendra, tostada",
+    "kcal": 587.9,
+    "protein": 22.9,
+    "carbs": 6.6,
+    "fat": 52.9
+  },
+  {
+    "name": "Altramuz",
+    "kcal": 397.2,
+    "protein": 36.2,
+    "carbs": 40.4,
+    "fat": 9.7
+  },
+  {
+    "name": "Avellana, cruda, con cáscara",
+    "kcal": 636.2,
+    "protein": 12.0,
+    "carbs": 10.5,
+    "fat": 61.6
+  },
+  {
+    "name": "Cacahuete, crudo, con cáscara",
+    "kcal": 541.4,
+    "protein": 25.2,
+    "carbs": 7.9,
+    "fat": 43.1
+  },
+  {
+    "name": "Cacahuete, tostado, salado",
+    "kcal": 597.1,
+    "protein": 24.5,
+    "carbs": 7.1,
+    "fat": 53.0
+  },
+  {
+    "name": "Castaña, cruda",
+    "kcal": 178.5,
+    "protein": 2.6,
+    "carbs": 36.5,
+    "fat": 2.5
+  },
+  {
+    "name": "Crema de almendras",
+    "kcal": 378.0,
+    "protein": 4.6,
+    "carbs": 59.7,
+    "fat": 13.2
+  },
+  {
+    "name": "Frutos secos",
+    "kcal": 563.3,
+    "protein": 1.3,
+    "carbs": 25.4,
+    "fat": 51.5
+  },
+  {
+    "name": "Garbanzo, en conserva",
+    "kcal": 132.9,
+    "protein": 7.2,
+    "carbs": 14.1,
+    "fat": 2.9
+  },
+  {
+    "name": "Garbanzo, hervido",
+    "kcal": 358.7,
+    "protein": 8.9,
+    "carbs": 18.7,
+    "fat": 2.5
+  },
+  {
+    "name": "Guisantes en conserva",
+    "kcal": 66.6,
+    "protein": 5.6,
+    "carbs": 9.7,
+    "fat": 0.5
+  },
+  {
+    "name": "Haba, fresca",
+    "kcal": 57.2,
+    "protein": 4.6,
+    "carbs": 8.6,
+    "fat": 0.4
+  },
+  {
+    "name": "Haba, frita",
+    "kcal": 57.2,
+    "protein": 4.6,
+    "carbs": 8.6,
+    "fat": 0.4
+  },
+  {
+    "name": "Judía blanca",
+    "kcal": 240.9,
+    "protein": 21.1,
+    "carbs": 34.7,
+    "fat": 1.6
+  },
+  {
+    "name": "Judía pinta",
+    "kcal": 245.8,
+    "protein": 23.6,
+    "carbs": 35.1,
+    "fat": 0.8
+  },
+  {
+    "name": "Judía verde, cruda",
+    "kcal": 27.5,
+    "protein": 2.2,
+    "carbs": 3.7,
+    "fat": 0.4
+  },
+  {
+    "name": "Judías blancas, cocidas",
+    "kcal": 322.9,
+    "protein": 21.4,
+    "carbs": 54.8,
+    "fat": 1.5
+  },
+  {
+    "name": "Lenteja, hervida",
+    "kcal": 331.1,
+    "protein": 23.0,
+    "carbs": 54.8,
+    "fat": 1.7
+  },
+  {
+    "name": "Nuez",
+    "kcal": 592.0,
+    "protein": 14.0,
+    "carbs": 3.3,
+    "fat": 63.3
+  },
+  {
+    "name": "Nuez, cruda, con cáscara",
+    "kcal": 592.0,
+    "protein": 14.0,
+    "carbs": 3.3,
+    "fat": 59.0
+  },
+  {
+    "name": "Piñón, crudo, con cáscara",
+    "kcal": 679.4,
+    "protein": 14.0,
+    "carbs": 3.9,
+    "fat": 68.6
+  },
+  {
+    "name": "Pipa de calabaza",
+    "kcal": 600.1,
+    "protein": 30.2,
+    "carbs": 10.7,
+    "fat": 47.3
+  },
+  {
+    "name": "Pipa de girasol",
+    "kcal": 571.2,
+    "protein": 27.0,
+    "carbs": 20.0,
+    "fat": 43.0
+  },
+  {
+    "name": "Pipas de girasol, peladas, con sal",
+    "kcal": 624.4,
+    "protein": 17.2,
+    "carbs": 12.8,
+    "fat": 56.8
+  },
+  {
+    "name": "Pistacho",
+    "kcal": 591.6,
+    "protein": 17.6,
+    "carbs": 15.7,
+    "fat": 49.2
+  },
+  {
+    "name": "Soja, frita",
+    "kcal": 140.0,
+    "protein": 13.7,
+    "carbs": 10.3,
+    "fat": 4.8
+  },
+  {
+    "name": "Acelga, cruda",
+    "kcal": 21.3,
+    "protein": 2.1,
+    "carbs": 2.7,
+    "fat": 0.2
+  },
+  {
+    "name": "Caqui",
+    "kcal": 66.8,
+    "protein": 0.7,
+    "carbs": 15.3,
+    "fat": 0.2
+  },
+  {
+    "name": "Aceituna",
+    "kcal": 119.9,
+    "protein": 1.3,
+    "carbs": 1.0,
+    "fat": 12.5
+  },
+  {
+    "name": "Aceituna negra, con hueso",
+    "kcal": 287.9,
+    "protein": 2.0,
+    "carbs": 4.0,
+    "fat": 29.8
+  },
+  {
+    "name": "Aguacate",
+    "kcal": 136.2,
+    "protein": 1.5,
+    "carbs": 0.4,
+    "fat": 12.0
+  },
+  {
+    "name": "Aguacate congelado",
+    "kcal": 223.3,
+    "protein": 1.9,
+    "carbs": 0.4,
+    "fat": 23.5
+  },
+  {
+    "name": "Albaricoque",
+    "kcal": 41.8,
+    "protein": 0.8,
+    "carbs": 9.5,
+    "fat": 0.0
+  },
+  {
+    "name": "Avellana",
+    "kcal": 653.0,
+    "protein": 12.0,
+    "carbs": 10.5,
+    "fat": 56.2
+  },
+  {
+    "name": "Cereza",
+    "kcal": 62.5,
+    "protein": 0.8,
+    "carbs": 13.5,
+    "fat": 0.5
+  },
+  {
+    "name": "Chayote, crudo",
+    "kcal": 22.8,
+    "protein": 0.8,
+    "carbs": 4.5,
+    "fat": 0.1
+  },
+  {
+    "name": "Chirimoya",
+    "kcal": 87.1,
+    "protein": 1.0,
+    "carbs": 20.0,
+    "fat": 0.2
+  },
+  {
+    "name": "Ciruela, sin piel",
+    "kcal": 47.1,
+    "protein": 0.6,
+    "carbs": 11.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Dátil",
+    "kcal": 286.8,
+    "protein": 2.5,
+    "carbs": 67.0,
+    "fat": 0.5
+  },
+  {
+    "name": "Fresa",
+    "kcal": 35.7,
+    "protein": 0.7,
+    "carbs": 7.0,
+    "fat": 0.5
+  },
+  {
+    "name": "Granada",
+    "kcal": 62.4,
+    "protein": 1.0,
+    "carbs": 13.7,
+    "fat": 0.3
+  },
+  {
+    "name": "Higos y brevas",
+    "kcal": 69.9,
+    "protein": 1.2,
+    "carbs": 16.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Kiwi",
+    "kcal": 52.0,
+    "protein": 1.1,
+    "carbs": 10.6,
+    "fat": 0.5
+  },
+  {
+    "name": "Mandarina",
+    "kcal": 39.8,
+    "protein": 0.8,
+    "carbs": 9.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Mandarina, congelada",
+    "kcal": 41.7,
+    "protein": 0.6,
+    "carbs": 9.2,
+    "fat": 0.2
+  },
+  {
+    "name": "Manzana",
+    "kcal": 50.0,
+    "protein": 0.3,
+    "carbs": 12.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Melocotón",
+    "kcal": 39.0,
+    "protein": 0.6,
+    "carbs": 9.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Melocotón en almíbar",
+    "kcal": 57.7,
+    "protein": 0.4,
+    "carbs": 13.8,
+    "fat": 0.0
+  },
+  {
+    "name": "Melón",
+    "kcal": 26.8,
+    "protein": 0.6,
+    "carbs": 6.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Naranja",
+    "kcal": 38.2,
+    "protein": 0.8,
+    "carbs": 8.6,
+    "fat": 0.0
+  },
+  {
+    "name": "Nectarina",
+    "kcal": 43.1,
+    "protein": 1.4,
+    "carbs": 9.0,
+    "fat": 0.1
+  },
+  {
+    "name": "Nispero, sin piel , congelado",
+    "kcal": 39.0,
+    "protein": 0.6,
+    "carbs": 8.6,
+    "fat": 0.2
+  },
+  {
+    "name": "Paraguaya",
+    "kcal": 46.0,
+    "protein": 0.9,
+    "carbs": 10.2,
+    "fat": 0.1
+  },
+  {
+    "name": "Pasta de fruta",
+    "kcal": 256.8,
+    "protein": 1.0,
+    "carbs": 62.2,
+    "fat": 0.0
+  },
+  {
+    "name": "Pera",
+    "kcal": 44.7,
+    "protein": 0.4,
+    "carbs": 10.6,
+    "fat": 0.0
+  },
+  {
+    "name": "Piña",
+    "kcal": 48.8,
+    "protein": 0.5,
+    "carbs": 11.5,
+    "fat": 0.0
+  },
+  {
+    "name": "Piña en almíbar",
+    "kcal": 65.1,
+    "protein": 0.4,
+    "carbs": 15.4,
+    "fat": 0.1
+  },
+  {
+    "name": "Piñon",
+    "kcal": 679.8,
+    "protein": 14.0,
+    "carbs": 4.0,
+    "fat": 62.6
+  },
+  {
+    "name": "Plátano",
+    "kcal": 88.8,
+    "protein": 1.2,
+    "carbs": 20.0,
+    "fat": 0.3
+  },
+  {
+    "name": "Pomelo",
+    "kcal": 25.7,
+    "protein": 0.7,
+    "carbs": 5.4,
+    "fat": 0.1
+  },
+  {
+    "name": "Sandía",
+    "kcal": 19.9,
+    "protein": 0.4,
+    "carbs": 4.5,
+    "fat": 0.0
+  },
+  {
+    "name": "Zumo de tomate, fresco",
+    "kcal": 15.6,
+    "protein": 0.8,
+    "carbs": 3.0,
+    "fat": 0.1
+  },
+  {
+    "name": "Uva blanca",
+    "kcal": 67.9,
+    "protein": 0.6,
+    "carbs": 16.1,
+    "fat": 0.0
+  },
+  {
+    "name": "Uva blanca, congelada",
+    "kcal": 69.8,
+    "protein": 0.7,
+    "carbs": 16.1,
+    "fat": 0.2
+  },
+  {
+    "name": "Uva pasa",
+    "kcal": 296.0,
+    "protein": 2.5,
+    "carbs": 69.3,
+    "fat": 0.5
+  },
+  {
+    "name": "Zumo de zanahoria, fresco",
+    "kcal": 23.2,
+    "protein": 0.6,
+    "carbs": 4.8,
+    "fat": 0.1
+  },
+  {
+    "name": "Avestruz, solomillo, crudo",
+    "kcal": 114.1,
+    "protein": 21.7,
+    "carbs": 0.0,
+    "fat": 3.0
+  },
+  {
+    "name": "Butifarra",
+    "kcal": 239.8,
+    "protein": 10.0,
+    "carbs": 5.5,
+    "fat": 20.0
+  },
+  {
+    "name": "Cecina",
+    "kcal": 242.5,
+    "protein": 39.0,
+    "carbs": 0.0,
+    "fat": 9.5
+  },
+  {
+    "name": "Cerdo, chuleta, crudo",
+    "kcal": 209.8,
+    "protein": 19.0,
+    "carbs": 0.0,
+    "fat": 15.0
+  },
+  {
+    "name": "Cerdo, costilla, crudo",
+    "kcal": 278.2,
+    "protein": 17.1,
+    "carbs": 0.0,
+    "fat": 23.6
+  },
+  {
+    "name": "Cerdo, lomo, crudo",
+    "kcal": 151.8,
+    "protein": 18.0,
+    "carbs": 0.0,
+    "fat": 8.9
+  },
+  {
+    "name": "Cerdo, panceta, cruda",
+    "kcal": 464.9,
+    "protein": 12.5,
+    "carbs": 0.5,
+    "fat": 46.6
+  },
+  {
+    "name": "Cerdo, parte sin especificar",
+    "kcal": 270.8,
+    "protein": 16.6,
+    "carbs": 0.0,
+    "fat": 23.0
+  },
+  {
+    "name": "Chistorra",
+    "kcal": 512.4,
+    "protein": 15.3,
+    "carbs": 0.9,
+    "fat": 50.5
+  },
+  {
+    "name": "Choped pork",
+    "kcal": 307.8,
+    "protein": 14.0,
+    "carbs": 3.0,
+    "fat": 27.0
+  },
+  {
+    "name": "Chorizo",
+    "kcal": 321.7,
+    "protein": 27.0,
+    "carbs": 1.9,
+    "fat": 23.1
+  },
+  {
+    "name": "Corazon de vaca, crudo",
+    "kcal": 104.4,
+    "protein": 17.0,
+    "carbs": 0.0,
+    "fat": 4.0
+  },
+  {
+    "name": "Cordero, costilla, crudo",
+    "kcal": 241.1,
+    "protein": 15.6,
+    "carbs": 0.0,
+    "fat": 20.1
+  },
+  {
+    "name": "Cordero, parte sin especificar",
+    "kcal": 352.6,
+    "protein": 15.6,
+    "carbs": 0.0,
+    "fat": 32.7
+  },
+  {
+    "name": "Croquetas de pollo",
+    "kcal": 153.5,
+    "protein": 5.8,
+    "carbs": 20.4,
+    "fat": 5.3
+  },
+  {
+    "name": "Foie gras",
+    "kcal": 441.9,
+    "protein": 10.0,
+    "carbs": 3.0,
+    "fat": 44.0
+  },
+  {
+    "name": "Higado de pollo, crudo",
+    "kcal": 136.3,
+    "protein": 22.1,
+    "carbs": 1.2,
+    "fat": 4.7
+  },
+  {
+    "name": "Jamón asado",
+    "kcal": 264.7,
+    "protein": 26.8,
+    "carbs": 0.0,
+    "fat": 17.6
+  },
+  {
+    "name": "Jamón cocido, enlatado",
+    "kcal": 125.1,
+    "protein": 18.4,
+    "carbs": 1.3,
+    "fat": 5.1
+  },
+  {
+    "name": "Jamón serrano",
+    "kcal": 317.7,
+    "protein": 28.8,
+    "carbs": 0.2,
+    "fat": 22.6
+  },
+  {
+    "name": "Lacón",
+    "kcal": 213.4,
+    "protein": 19.1,
+    "carbs": 9.9,
+    "fat": 10.8
+  },
+  {
+    "name": "Lengua de cerdo, cruda",
+    "kcal": 156.1,
+    "protein": 16.0,
+    "carbs": 0.0,
+    "fat": 10.3
+  },
+  {
+    "name": "Lengua de cordero, cruda",
+    "kcal": 191.3,
+    "protein": 15.3,
+    "carbs": 0.0,
+    "fat": 14.6
+  },
+  {
+    "name": "Lomo embuchado",
+    "kcal": 321.2,
+    "protein": 34.0,
+    "carbs": 0.0,
+    "fat": 20.7
+  },
+  {
+    "name": "Molleja de cordero",
+    "kcal": 131.1,
+    "protein": 15.3,
+    "carbs": 0.0,
+    "fat": 7.8
+  },
+  {
+    "name": "Morcilla",
+    "kcal": 323.0,
+    "protein": 11.0,
+    "carbs": 3.2,
+    "fat": 30.0
+  },
+  {
+    "name": "Morcilla, frita",
+    "kcal": 305.7,
+    "protein": 12.6,
+    "carbs": 15.0,
+    "fat": 21.9
+  },
+  {
+    "name": "Mortadela",
+    "kcal": 293.6,
+    "protein": 14.0,
+    "carbs": 3.0,
+    "fat": 25.4
+  },
+  {
+    "name": "Panceta, frita",
+    "kcal": 734.4,
+    "protein": 4.7,
+    "carbs": 0.0,
+    "fat": 80.9
+  },
+  {
+    "name": "Pate de higado de cerdo, 30% de grasa",
+    "kcal": 338.1,
+    "protein": 14.0,
+    "carbs": 5.0,
+    "fat": 29.5
+  },
+  {
+    "name": "Pavo, crudo",
+    "kcal": 157.2,
+    "protein": 20.2,
+    "carbs": 0.0,
+    "fat": 8.5
+  },
+  {
+    "name": "Pavo, fiambre",
+    "kcal": 146.9,
+    "protein": 15.3,
+    "carbs": 0.4,
+    "fat": 9.4
+  },
+  {
+    "name": "Pavo, fiambre, bajo en grasa",
+    "kcal": 100.1,
+    "protein": 19.3,
+    "carbs": 3.6,
+    "fat": 0.8
+  },
+  {
+    "name": "Pavo, pechuga, con piel, crudo",
+    "kcal": 106.8,
+    "protein": 24.1,
+    "carbs": 0.0,
+    "fat": 1.0
+  },
+  {
+    "name": "Perdiz, cruda",
+    "kcal": 111.4,
+    "protein": 22.4,
+    "carbs": 0.0,
+    "fat": 2.3
+  },
+  {
+    "name": "Pollo empanado, frito",
+    "kcal": 226.8,
+    "protein": 17.6,
+    "carbs": 5.3,
+    "fat": 15.1
+  },
+  {
+    "name": "Pollo, ala, con piel, cruda",
+    "kcal": 215.7,
+    "protein": 18.3,
+    "carbs": 0.0,
+    "fat": 16.0
+  },
+  {
+    "name": "Pollo, entero, con piel, crudo",
+    "kcal": 166.5,
+    "protein": 20.9,
+    "carbs": 0.0,
+    "fat": 9.2
+  },
+  {
+    "name": "Pollo, fiambre",
+    "kcal": 139.5,
+    "protein": 19.9,
+    "carbs": 2.3,
+    "fat": 5.6
+  },
+  {
+    "name": "Pollo, fiambre, bajo en grasa",
+    "kcal": 86.6,
+    "protein": 18.3,
+    "carbs": 1.7,
+    "fat": 0.6
+  },
+  {
+    "name": "Pollo, frito",
+    "kcal": 201.6,
+    "protein": 17.1,
+    "carbs": 0.7,
+    "fat": 14.6
+  },
+  {
+    "name": "Pollo, parte sin especificar",
+    "kcal": 165.8,
+    "protein": 19.9,
+    "carbs": 0.0,
+    "fat": 9.6
+  },
+  {
+    "name": "Pollo, pechuga, plancha",
+    "kcal": 145.0,
+    "protein": 22.2,
+    "carbs": 0.0,
+    "fat": 6.2
+  },
+  {
+    "name": "Pulmón, de cerdo, crudo",
+    "kcal": 81.3,
+    "protein": 14.1,
+    "carbs": 0.0,
+    "fat": 2.7
+  },
+  {
+    "name": "Pulmón, de cordero, crudo",
+    "kcal": 90.8,
+    "protein": 16.7,
+    "carbs": 0.0,
+    "fat": 2.6
+  },
+  {
+    "name": "Pulmón, de ternera, crudo",
+    "kcal": 87.9,
+    "protein": 16.2,
+    "carbs": 0.0,
+    "fat": 2.5
+  },
+  {
+    "name": "Rabo de toro",
+    "kcal": 199.4,
+    "protein": 18.6,
+    "carbs": 0.0,
+    "fat": 14.0
+  },
+  {
+    "name": "Bacalao, crudo",
+    "kcal": 82.8,
+    "protein": 18.2,
+    "carbs": 0.0,
+    "fat": 1.0
+  },
+  {
+    "name": "Salami",
+    "kcal": 433.1,
+    "protein": 17.8,
+    "carbs": 1.3,
+    "fat": 40.2
+  },
+  {
+    "name": "Bacalao, frito",
+    "kcal": 75.1,
+    "protein": 17.0,
+    "carbs": 0.0,
+    "fat": 0.7
+  },
+  {
+    "name": "Salchicha, fresca",
+    "kcal": 305.5,
+    "protein": 13.1,
+    "carbs": 0.9,
+    "fat": 28.1
+  },
+  {
+    "name": "Berberechos",
+    "kcal": 47.9,
+    "protein": 10.7,
+    "carbs": 0.0,
+    "fat": 0.5
+  },
+  {
+    "name": "Berberechos en conserva",
+    "kcal": 47.9,
+    "protein": 10.7,
+    "carbs": 0.0,
+    "fat": 0.5
+  },
+  {
+    "name": "Salchicha de pollo fresca",
+    "kcal": 305.5,
+    "protein": 13.1,
+    "carbs": 0.9,
+    "fat": 28.1
+  },
+  {
+    "name": "Salchicha, tipo \"frankfurt\"",
+    "kcal": 286.8,
+    "protein": 12.7,
+    "carbs": 1.3,
+    "fat": 26.0
+  },
+  {
+    "name": "Salchichón",
+    "kcal": 419.8,
+    "protein": 25.8,
+    "carbs": 2.0,
+    "fat": 34.7
+  },
+  {
+    "name": "Sobrasada",
+    "kcal": 595.4,
+    "protein": 12.9,
+    "carbs": 0.0,
+    "fat": 61.4
+  },
+  {
+    "name": "Besugo",
+    "kcal": 89.5,
+    "protein": 18.1,
+    "carbs": 0.0,
+    "fat": 1.8
+  },
+  {
+    "name": "Bogavante",
+    "kcal": 92.0,
+    "protein": 18.3,
+    "carbs": 0.0,
+    "fat": 2.0
+  },
+  {
+    "name": "Bonito en aceite vegetal",
+    "kcal": 198.7,
+    "protein": 23.9,
+    "carbs": 0.0,
+    "fat": 11.5
+  },
+  {
+    "name": "Ternera, parte sin especificar, cruda, con grasa separable",
+    "kcal": 253.6,
+    "protein": 16.7,
+    "carbs": 0.0,
+    "fat": 21.0
+  },
+  {
+    "name": "Boquerón",
+    "kcal": 127.2,
+    "protein": 17.6,
+    "carbs": 0.0,
+    "fat": 6.3
+  },
+  {
+    "name": "Tocino",
+    "kcal": 662.0,
+    "protein": 8.4,
+    "carbs": 0.0,
+    "fat": 71.0
+  },
+  {
+    "name": "Boquerón, frito",
+    "kcal": 136.7,
+    "protein": 20.1,
+    "carbs": 0.5,
+    "fat": 6.0
+  },
+  {
+    "name": "Caballa, cruda",
+    "kcal": 181.1,
+    "protein": 18.7,
+    "carbs": 0.0,
+    "fat": 11.9
+  },
+  {
+    "name": "Calamar, asado",
+    "kcal": 80.9,
+    "protein": 16.6,
+    "carbs": 0.5,
+    "fat": 1.3
+  },
+  {
+    "name": "Camarón",
+    "kcal": 82.9,
+    "protein": 17.6,
+    "carbs": 1.5,
+    "fat": 0.6
+  },
+  {
+    "name": "Longaniza",
+    "kcal": 344.8,
+    "protein": 25.0,
+    "carbs": 0.0,
+    "fat": 27.5
+  },
+  {
+    "name": "Calamares en aceite vegetal",
+    "kcal": 215.9,
+    "protein": 22.5,
+    "carbs": 0.6,
+    "fat": 13.8
+  },
+  {
+    "name": "Cangrejo",
+    "kcal": 124.0,
+    "protein": 19.5,
+    "carbs": 0.0,
+    "fat": 5.1
+  },
+  {
+    "name": "Cangrejo de río crudo",
+    "kcal": 124.3,
+    "protein": 19.5,
+    "carbs": 0.0,
+    "fat": 5.1
+  },
+  {
+    "name": "Caracol",
+    "kcal": 85.9,
+    "protein": 16.1,
+    "carbs": 2.0,
+    "fat": 1.4
+  },
+  {
+    "name": "Cardo, tallo, en conserva",
+    "kcal": 13.8,
+    "protein": 0.8,
+    "carbs": 2.4,
+    "fat": 0.1
+  },
+  {
+    "name": "Centollo, crudo",
+    "kcal": 127.7,
+    "protein": 20.1,
+    "carbs": 0.0,
+    "fat": 5.2
+  },
+  {
+    "name": "Chipiron",
+    "kcal": 81.2,
+    "protein": 16.2,
+    "carbs": 0.7,
+    "fat": 1.4
+  },
+  {
+    "name": "Chirla",
+    "kcal": 47.0,
+    "protein": 10.7,
+    "carbs": 0.0,
+    "fat": 0.5
+  },
+  {
+    "name": "Cigala",
+    "kcal": 86.3,
+    "protein": 17.7,
+    "carbs": 0.5,
+    "fat": 1.4
+  },
+  {
+    "name": "Congrio",
+    "kcal": 102.0,
+    "protein": 19.0,
+    "carbs": 0.0,
+    "fat": 2.8
+  },
+  {
+    "name": "Dorada, plancha",
+    "kcal": 92.9,
+    "protein": 17.0,
+    "carbs": 0.0,
+    "fat": 2.7
+  },
+  {
+    "name": "Faneca, cruda",
+    "kcal": 75.5,
+    "protein": 15.4,
+    "carbs": 1.0,
+    "fat": 1.0
+  },
+  {
+    "name": "Fletan, crudo",
+    "kcal": 84.6,
+    "protein": 17.5,
+    "carbs": 0.5,
+    "fat": 1.3
+  },
+  {
+    "name": "Gallo",
+    "kcal": 81.0,
+    "protein": 15.8,
+    "carbs": 0.0,
+    "fat": 1.9
+  },
+  {
+    "name": "Gamba, hervida",
+    "kcal": 95.5,
+    "protein": 19.8,
+    "carbs": 0.0,
+    "fat": 1.7
+  },
+  {
+    "name": "Caviar",
+    "kcal": 274.5,
+    "protein": 24.6,
+    "carbs": 4.0,
+    "fat": 17.9
+  },
+  {
+    "name": "Langosta",
+    "kcal": 90.8,
+    "protein": 18.0,
+    "carbs": 0.0,
+    "fat": 2.0
+  },
+  {
+    "name": "Langostino",
+    "kcal": 111.9,
+    "protein": 24.3,
+    "carbs": 1.5,
+    "fat": 0.8
+  },
+  {
+    "name": "Lenguado",
+    "kcal": 78.5,
+    "protein": 16.5,
+    "carbs": 0.0,
+    "fat": 1.3
+  },
+  {
+    "name": "Lenguado, frito",
+    "kcal": 92.2,
+    "protein": 17.9,
+    "carbs": 0.0,
+    "fat": 2.2
+  },
+  {
+    "name": "Lenguado, plancha",
+    "kcal": 134.8,
+    "protein": 15.4,
+    "carbs": 0.5,
+    "fat": 8.0
+  },
+  {
+    "name": "Lubina",
+    "kcal": 84.6,
+    "protein": 18.0,
+    "carbs": 0.0,
+    "fat": 1.3
+  },
+  {
+    "name": "Mejillon",
+    "kcal": 60.7,
+    "protein": 10.8,
+    "carbs": 0.0,
+    "fat": 1.9
+  },
+  {
+    "name": "Mejillón, en escabeche",
+    "kcal": 167.3,
+    "protein": 10.7,
+    "carbs": 0.0,
+    "fat": 14.0
+  },
+  {
+    "name": "Merluza fresca",
+    "kcal": 64.4,
+    "protein": 11.9,
+    "carbs": 0.0,
+    "fat": 1.8
+  },
+  {
+    "name": "Merluza, rebozada, frita",
+    "kcal": 148.6,
+    "protein": 10.7,
+    "carbs": 3.5,
+    "fat": 10.3
+  },
+  {
+    "name": "Mero, plancha",
+    "kcal": 146.1,
+    "protein": 14.3,
+    "carbs": 0.3,
+    "fat": 9.8
+  },
+  {
+    "name": "Nécora",
+    "kcal": 124.0,
+    "protein": 19.5,
+    "carbs": 0.0,
+    "fat": 5.1
+  },
+  {
+    "name": "Panga, cruda",
+    "kcal": 66.3,
+    "protein": 13.4,
+    "carbs": 0.3,
+    "fat": 1.2
+  },
+  {
+    "name": "Percebe",
+    "kcal": 59.7,
+    "protein": 13.6,
+    "carbs": 0.0,
+    "fat": 0.5
+  },
+  {
+    "name": "Pescado, genérico",
+    "kcal": 95.8,
+    "protein": 20.1,
+    "carbs": 0.0,
+    "fat": 1.6
+  },
+  {
+    "name": "Pez espada, emperador, plancha",
+    "kcal": 147.3,
+    "protein": 16.0,
+    "carbs": 1.3,
+    "fat": 8.7
+  },
+  {
+    "name": "Pijota, cruda",
+    "kcal": 64.4,
+    "protein": 11.9,
+    "carbs": 0.0,
+    "fat": 1.8
+  },
+  {
+    "name": "Acelga, en conserva",
+    "kcal": 17.4,
+    "protein": 1.8,
+    "carbs": 2.3,
+    "fat": 0.1
+  },
+  {
+    "name": "Acelgas, hervidas",
+    "kcal": 28.9,
+    "protein": 1.9,
+    "carbs": 4.4,
+    "fat": 0.4
+  },
+  {
+    "name": "Ajo",
+    "kcal": 116.8,
+    "protein": 3.9,
+    "carbs": 24.3,
+    "fat": 0.2
+  },
+  {
+    "name": "Ajo, frito",
+    "kcal": 101.4,
+    "protein": 7.7,
+    "carbs": 16.0,
+    "fat": 0.6
+  },
+  {
+    "name": "Alcachofas en conserva",
+    "kcal": 18.1,
+    "protein": 2.9,
+    "carbs": 1.2,
+    "fat": 0.2
+  },
+  {
+    "name": "Alcaparra",
+    "kcal": 25.7,
+    "protein": 2.4,
+    "carbs": 2.1,
+    "fat": 0.9
+  },
+  {
+    "name": "Apio, crudo",
+    "kcal": 10.6,
+    "protein": 0.9,
+    "carbs": 1.5,
+    "fat": 0.1
+  },
+  {
+    "name": "Arandano",
+    "kcal": 32.4,
+    "protein": 0.6,
+    "carbs": 6.0,
+    "fat": 0.6
+  },
+  {
+    "name": "Bambú, crudo",
+    "kcal": 34.3,
+    "protein": 2.6,
+    "carbs": 5.2,
+    "fat": 0.3
+  },
+  {
+    "name": "Berenjena",
+    "kcal": 20.1,
+    "protein": 0.7,
+    "carbs": 3.8,
+    "fat": 0.2
+  },
+  {
+    "name": "Borraja",
+    "kcal": 25.9,
+    "protein": 1.8,
+    "carbs": 3.1,
+    "fat": 0.7
+  },
+  {
+    "name": "Brécol, hervido",
+    "kcal": 24.1,
+    "protein": 3.1,
+    "carbs": 1.1,
+    "fat": 0.8
+  },
+  {
+    "name": "Pulpo, hervido",
+    "kcal": 68.6,
+    "protein": 13.4,
+    "carbs": 1.4,
+    "fat": 0.9
+  },
+  {
+    "name": "Calabacín",
+    "kcal": 17.2,
+    "protein": 1.8,
+    "carbs": 2.0,
+    "fat": 0.2
+  },
+  {
+    "name": "Calabacín, asado",
+    "kcal": 17.8,
+    "protein": 1.8,
+    "carbs": 1.8,
+    "fat": 0.4
+  },
+  {
+    "name": "Calabaza, cruda",
+    "kcal": 32.1,
+    "protein": 1.2,
+    "carbs": 5.6,
+    "fat": 0.5
+  },
+  {
+    "name": "Canonigos",
+    "kcal": 13.7,
+    "protein": 1.8,
+    "carbs": 0.7,
+    "fat": 0.4
+  },
+  {
+    "name": "Cardo",
+    "kcal": 21.7,
+    "protein": 1.4,
+    "carbs": 3.5,
+    "fat": 0.2
+  },
+  {
+    "name": "Cebolla",
+    "kcal": 26.1,
+    "protein": 1.1,
+    "carbs": 5.3,
+    "fat": 0.0
+  },
+  {
+    "name": "Cebolla, asada",
+    "kcal": 38.0,
+    "protein": 1.2,
+    "carbs": 7.7,
+    "fat": 0.2
+  },
+  {
+    "name": "Cebolla, hervida",
+    "kcal": 18.4,
+    "protein": 0.6,
+    "carbs": 3.7,
+    "fat": 0.1
+  },
+  {
+    "name": "Champiñon",
+    "kcal": 26.2,
+    "protein": 1.8,
+    "carbs": 4.0,
+    "fat": 0.3
+  },
+  {
+    "name": "Champiñones en conserva",
+    "kcal": 13.8,
+    "protein": 2.2,
+    "carbs": 0.1,
+    "fat": 0.5
+  },
+  {
+    "name": "Col blanca, cruda",
+    "kcal": 35.8,
+    "protein": 4.3,
+    "carbs": 2.5,
+    "fat": 0.9
+  },
+  {
+    "name": "Coliflor, hervida",
+    "kcal": 27.2,
+    "protein": 2.8,
+    "carbs": 2.0,
+    "fat": 0.9
+  },
+  {
+    "name": "Endibia",
+    "kcal": 9.1,
+    "protein": 1.1,
+    "carbs": 0.7,
+    "fat": 0.2
+  },
+  {
+    "name": "Ensalada",
+    "kcal": 19.1,
+    "protein": 1.1,
+    "carbs": 3.0,
+    "fat": 0.3
+  },
+  {
+    "name": "Escarola",
+    "kcal": 12.3,
+    "protein": 1.6,
+    "carbs": 1.0,
+    "fat": 0.2
+  },
+  {
+    "name": "Esparragos blancos en conserva",
+    "kcal": 24.2,
+    "protein": 1.9,
+    "carbs": 3.4,
+    "fat": 0.3
+  },
+  {
+    "name": "Espinaca, en conserva",
+    "kcal": 14.6,
+    "protein": 2.2,
+    "carbs": 0.5,
+    "fat": 0.4
+  },
+  {
+    "name": "Espinaca, hervida",
+    "kcal": 21.9,
+    "protein": 2.4,
+    "carbs": 1.9,
+    "fat": 0.5
+  },
+  {
+    "name": "Grelo",
+    "kcal": 11.4,
+    "protein": 2.7,
+    "carbs": 0.1,
+    "fat": 0.2
+  },
+  {
+    "name": "Judia verde, hervida",
+    "kcal": 83.3,
+    "protein": 1.8,
+    "carbs": 3.9,
+    "fat": 6.8
+  },
+  {
+    "name": "Judias verdes en conserva",
+    "kcal": 12.3,
+    "protein": 1.2,
+    "carbs": 1.6,
+    "fat": 0.1
+  },
+  {
+    "name": "Lechuga",
+    "kcal": 15.6,
+    "protein": 1.1,
+    "carbs": 1.4,
+    "fat": 0.6
+  },
+  {
+    "name": "Lombarda",
+    "kcal": 22.2,
+    "protein": 1.5,
+    "carbs": 3.5,
+    "fat": 0.2
+  },
+  {
+    "name": "Menestra de verduras, congelada",
+    "kcal": 44.6,
+    "protein": 3.3,
+    "carbs": 6.6,
+    "fat": 0.5
+  },
+  {
+    "name": "Patata, asada",
+    "kcal": 205.5,
+    "protein": 4.3,
+    "carbs": 46.1,
+    "fat": 0.1
+  },
+  {
+    "name": "Patata, cruda",
+    "kcal": 72.5,
+    "protein": 2.2,
+    "carbs": 15.2,
+    "fat": 0.2
+  },
+  {
+    "name": "Patata, hervida",
+    "kcal": 74.9,
+    "protein": 2.4,
+    "carbs": 15.6,
+    "fat": 0.2
+  },
+  {
+    "name": "Patata, prefrita, congelada",
+    "kcal": 269.3,
+    "protein": 4.1,
+    "carbs": 32.8,
+    "fat": 13.5
+  },
+  {
+    "name": "Pepinillos en vinagre",
+    "kcal": 15.7,
+    "protein": 1.0,
+    "carbs": 2.6,
+    "fat": 0.1
+  },
+  {
+    "name": "Pepino",
+    "kcal": 11.9,
+    "protein": 0.7,
+    "carbs": 2.0,
+    "fat": 0.1
+  },
+  {
+    "name": "Pimiento morrón, en conserva",
+    "kcal": 29.5,
+    "protein": 1.2,
+    "carbs": 5.2,
+    "fat": 0.4
+  },
+  {
+    "name": "Pimiento rojo, crudo",
+    "kcal": 28.9,
+    "protein": 1.3,
+    "carbs": 4.5,
+    "fat": 0.6
+  },
+  {
+    "name": "Pimiento, frito",
+    "kcal": 20.1,
+    "protein": 0.9,
+    "carbs": 3.6,
+    "fat": 0.2
+  },
+  {
+    "name": "Puerro, crudo y congelado",
+    "kcal": 24.2,
+    "protein": 1.6,
+    "carbs": 3.7,
+    "fat": 0.3
+  },
+  {
+    "name": "Puré de patata, en copos",
+    "kcal": 360.0,
+    "protein": 8.2,
+    "carbs": 78.7,
+    "fat": 0.8
+  },
+  {
+    "name": "Puré de patatas y champiñones, en copos",
+    "kcal": 387.2,
+    "protein": 10.3,
+    "carbs": 75.2,
+    "fat": 4.5
+  },
+  {
+    "name": "Rábano",
+    "kcal": 15.7,
+    "protein": 0.6,
+    "carbs": 2.6,
+    "fat": 0.3
+  },
+  {
+    "name": "Remolacha, en conserva",
+    "kcal": 29.4,
+    "protein": 1.2,
+    "carbs": 5.6,
+    "fat": 0.2
+  },
+  {
+    "name": "Repollo",
+    "kcal": 25.9,
+    "protein": 1.8,
+    "carbs": 3.7,
+    "fat": 0.4
+  },
+  {
+    "name": "Rúcula",
+    "kcal": 31.1,
+    "protein": 2.6,
+    "carbs": 3.6,
+    "fat": 0.7
+  },
+  {
+    "name": "Seta",
+    "kcal": 26.2,
+    "protein": 1.8,
+    "carbs": 4.0,
+    "fat": 0.3
+  },
+  {
+    "name": "Seta, plancha",
+    "kcal": 13.1,
+    "protein": 1.8,
+    "carbs": 0.4,
+    "fat": 0.5
+  },
+  {
+    "name": "Tomate",
+    "kcal": 18.8,
+    "protein": 0.9,
+    "carbs": 3.5,
+    "fat": 0.1
+  },
+  {
+    "name": "Tomate, asado",
+    "kcal": 18.9,
+    "protein": 1.0,
+    "carbs": 3.4,
+    "fat": 0.1
+  },
+  {
+    "name": "Tomate, maduro, pelado y triturado, enlatado",
+    "kcal": 36.3,
+    "protein": 2.3,
+    "carbs": 5.5,
+    "fat": 0.5
+  },
+  {
+    "name": "Zanahoria, cruda",
+    "kcal": 34.3,
+    "protein": 0.8,
+    "carbs": 7.0,
+    "fat": 0.3
+  },
+  {
+    "name": "Agua de la red",
+    "kcal": 0.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Agua mineral, mineralización debil",
+    "kcal": 0.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Aguardiente",
+    "kcal": 235.7,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Licor de crema 15-17% vol.",
+    "kcal": 322.3,
+    "protein": 0.0,
+    "carbs": 20.9,
+    "fat": 14.8
+  },
+  {
+    "name": "Bebida energética",
+    "kcal": 4.6,
+    "protein": 0.2,
+    "carbs": 0.7,
+    "fat": 0.1
+  },
+  {
+    "name": "Bebida isotónica",
+    "kcal": 32.1,
+    "protein": 0.0,
+    "carbs": 7.9,
+    "fat": 0.0
+  },
+  {
+    "name": "Cacao, en polvo, azucarado, bajo en calorías",
+    "kcal": 384.1,
+    "protein": 9.8,
+    "carbs": 67.1,
+    "fat": 8.1
+  },
+  {
+    "name": "Café, en polvo, soluble",
+    "kcal": 119.9,
+    "protein": 18.5,
+    "carbs": 11.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Café, infusión",
+    "kcal": 2.1,
+    "protein": 0.1,
+    "carbs": 0.0,
+    "fat": 0.2
+  },
+  {
+    "name": "Café, infusión, descafeinado",
+    "kcal": 2.1,
+    "protein": 0.1,
+    "carbs": 0.0,
+    "fat": 0.2
+  },
+  {
+    "name": "Café, sucedáneo, soluble",
+    "kcal": 408.7,
+    "protein": 12.3,
+    "carbs": 80.9,
+    "fat": 3.4
+  },
+  {
+    "name": "Cava",
+    "kcal": 70.0,
+    "protein": 0.2,
+    "carbs": 1.5,
+    "fat": 0.0
+  },
+  {
+    "name": "Cerveza con alcohol",
+    "kcal": 42.2,
+    "protein": 0.5,
+    "carbs": 3.1,
+    "fat": 0.0
+  },
+  {
+    "name": "Cerveza sin alcohol",
+    "kcal": 25.8,
+    "protein": 0.4,
+    "carbs": 5.4,
+    "fat": 0.0
+  },
+  {
+    "name": "Cerveza, baja en alcohol",
+    "kcal": 33.6,
+    "protein": 0.2,
+    "carbs": 2.1,
+    "fat": 0.0
+  },
+  {
+    "name": "Cubata",
+    "kcal": 108.9,
+    "protein": 0.0,
+    "carbs": 7.3,
+    "fat": 0.0
+  },
+  {
+    "name": "Ginebra",
+    "kcal": 219.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Horchata",
+    "kcal": 97.8,
+    "protein": 1.2,
+    "carbs": 17.0,
+    "fat": 2.7
+  },
+  {
+    "name": "Infusión",
+    "kcal": 0.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Licor apricot",
+    "kcal": 247.5,
+    "protein": 0.2,
+    "carbs": 30.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Licor benedictine",
+    "kcal": 258.8,
+    "protein": 0.0,
+    "carbs": 33.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Licor curaçao",
+    "kcal": 315.3,
+    "protein": 0.0,
+    "carbs": 30.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Licor de café",
+    "kcal": 343.1,
+    "protein": 0.0,
+    "carbs": 46.8,
+    "fat": 0.3
+  },
+  {
+    "name": "Licores de frutas",
+    "kcal": 225.8,
+    "protein": 0.1,
+    "carbs": 35.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Limonada",
+    "kcal": 11.5,
+    "protein": 0.5,
+    "carbs": 1.9,
+    "fat": 0.2
+  },
+  {
+    "name": "Refresco \"tipo gaseosa\"",
+    "kcal": 0.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Refresco con gas, sabor cola, sin cafeina",
+    "kcal": 43.7,
+    "protein": 0.0,
+    "carbs": 10.8,
+    "fat": 0.0
+  },
+  {
+    "name": "Refresco con gas, sabor cola, sin cafeina, bajo en calorías",
+    "kcal": 0.8,
+    "protein": 0.1,
+    "carbs": 0.1,
+    "fat": 0.0
+  },
+  {
+    "name": "Refresco de té",
+    "kcal": 37.3,
+    "protein": 0.1,
+    "carbs": 9.1,
+    "fat": 0.0
+  },
+  {
+    "name": "Refresco de té, bajo en calorías",
+    "kcal": 0.4,
+    "protein": 0.1,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Refresco tipo \"tónica\"",
+    "kcal": 37.4,
+    "protein": 0.0,
+    "carbs": 9.2,
+    "fat": 0.0
+  },
+  {
+    "name": "Refresco, con gas, sabor naranja",
+    "kcal": 43.9,
+    "protein": 0.0,
+    "carbs": 10.8,
+    "fat": 0.0
+  },
+  {
+    "name": "Refresco, sabor cola",
+    "kcal": 44.1,
+    "protein": 0.0,
+    "carbs": 10.8,
+    "fat": 0.0
+  },
+  {
+    "name": "Refresco, sabor cola, bajo en calorías",
+    "kcal": 0.4,
+    "protein": 0.0,
+    "carbs": 0.1,
+    "fat": 0.0
+  },
+  {
+    "name": "Sangría",
+    "kcal": 71.0,
+    "protein": 0.2,
+    "carbs": 3.8,
+    "fat": 0.0
+  },
+  {
+    "name": "Sidra",
+    "kcal": 50.0,
+    "protein": 0.0,
+    "carbs": 6.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Tequila",
+    "kcal": 263.4,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Vino blanco",
+    "kcal": 60.3,
+    "protein": 0.1,
+    "carbs": 0.1,
+    "fat": 0.0
+  },
+  {
+    "name": "Vino dulce, tipo oporto",
+    "kcal": 131.5,
+    "protein": 0.3,
+    "carbs": 14.0,
+    "fat": 0.3
+  },
+  {
+    "name": "Vino rosado",
+    "kcal": 66.4,
+    "protein": 0.1,
+    "carbs": 1.4,
+    "fat": 0.0
+  },
+  {
+    "name": "Vino tinto",
+    "kcal": 70.2,
+    "protein": 0.2,
+    "carbs": 0.3,
+    "fat": 0.0
+  },
+  {
+    "name": "Whisky",
+    "kcal": 244.4,
+    "protein": 0.0,
+    "carbs": 0.1,
+    "fat": 0.0
+  },
+  {
+    "name": "Zumo de manzana",
+    "kcal": 45.1,
+    "protein": 0.1,
+    "carbs": 11.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Zumo de naranja",
+    "kcal": 41.2,
+    "protein": 0.7,
+    "carbs": 9.0,
+    "fat": 0.2
+  },
+  {
+    "name": "Zumo de piña",
+    "kcal": 46.0,
+    "protein": 0.4,
+    "carbs": 10.7,
+    "fat": 0.1
+  },
+  {
+    "name": "Raya, cruda",
+    "kcal": 97.9,
+    "protein": 20.6,
+    "carbs": 0.8,
+    "fat": 1.3
+  },
+  {
+    "name": "Pulpo",
+    "kcal": 90.8,
+    "protein": 17.9,
+    "carbs": 1.4,
+    "fat": 1.4
+  },
+  {
+    "name": "Albahaca",
+    "kcal": 177.0,
+    "protein": 14.4,
+    "carbs": 20.5,
+    "fat": 4.0
+  },
+  {
+    "name": "Albondigas en conserva",
+    "kcal": 141.2,
+    "protein": 6.8,
+    "carbs": 6.8,
+    "fat": 9.7
+  },
+  {
+    "name": "Azafrán",
+    "kcal": 348.4,
+    "protein": 11.4,
+    "carbs": 61.5,
+    "fat": 5.9
+  },
+  {
+    "name": "Bocadillo",
+    "kcal": 224.4,
+    "protein": 11.1,
+    "carbs": 35.3,
+    "fat": 4.1
+  },
+  {
+    "name": "Canela, en polvo",
+    "kcal": 371.6,
+    "protein": 3.9,
+    "carbs": 80.6,
+    "fat": 3.2
+  },
+  {
+    "name": "Canelones",
+    "kcal": 191.0,
+    "protein": 11.2,
+    "carbs": 9.7,
+    "fat": 12.0
+  },
+  {
+    "name": "Arroz con leche",
+    "kcal": 91.5,
+    "protein": 3.3,
+    "carbs": 16.4,
+    "fat": 1.3
+  },
+  {
+    "name": "Batido de chocolate",
+    "kcal": 82.6,
+    "protein": 2.7,
+    "carbs": 9.8,
+    "fat": 3.6
+  },
+  {
+    "name": "Batido de fresa",
+    "kcal": 65.7,
+    "protein": 2.8,
+    "carbs": 11.2,
+    "fat": 1.0
+  },
+  {
+    "name": "Batido de soja",
+    "kcal": 82.1,
+    "protein": 5.0,
+    "carbs": 3.9,
+    "fat": 5.2
+  },
+  {
+    "name": "Crema catalana",
+    "kcal": 103.6,
+    "protein": 3.7,
+    "carbs": 15.5,
+    "fat": 2.9
+  },
+  {
+    "name": "Cremoso san millan",
+    "kcal": 260.5,
+    "protein": 6.7,
+    "carbs": 3.0,
+    "fat": 25.0
+  },
+  {
+    "name": "Cuajada",
+    "kcal": 86.7,
+    "protein": 4.5,
+    "carbs": 6.6,
+    "fat": 4.7
+  },
+  {
+    "name": "Flan de huevo",
+    "kcal": 132.5,
+    "protein": 4.8,
+    "carbs": 20.4,
+    "fat": 3.4
+  },
+  {
+    "name": "Helado de chocolate",
+    "kcal": 227.3,
+    "protein": 3.8,
+    "carbs": 28.2,
+    "fat": 11.0
+  },
+  {
+    "name": "Helado de fresa",
+    "kcal": 199.4,
+    "protein": 3.2,
+    "carbs": 27.6,
+    "fat": 8.4
+  },
+  {
+    "name": "Helado de nata",
+    "kcal": 210.5,
+    "protein": 3.9,
+    "carbs": 24.4,
+    "fat": 10.8
+  },
+  {
+    "name": "Leche de almendra",
+    "kcal": 351.3,
+    "protein": 14.5,
+    "carbs": 60.0,
+    "fat": 5.5
+  },
+  {
+    "name": "Bebida de soja",
+    "kcal": 52.7,
+    "protein": 3.2,
+    "carbs": 5.8,
+    "fat": 1.8
+  },
+  {
+    "name": "Leche de vaca, desnatada, condensada, con azúcar",
+    "kcal": 286.2,
+    "protein": 10.0,
+    "carbs": 60.0,
+    "fat": 0.2
+  },
+  {
+    "name": "Leche de vaca, entera",
+    "kcal": 65.1,
+    "protein": 3.1,
+    "carbs": 4.7,
+    "fat": 3.8
+  },
+  {
+    "name": "Leche materna",
+    "kcal": 68.8,
+    "protein": 1.1,
+    "carbs": 7.0,
+    "fat": 4.0
+  },
+  {
+    "name": "Preparado lácteo con omega 3",
+    "kcal": 52.6,
+    "protein": 3.5,
+    "carbs": 5.2,
+    "fat": 1.9
+  },
+  {
+    "name": "Mousse de chocolate",
+    "kcal": 245.9,
+    "protein": 5.1,
+    "carbs": 37.8,
+    "fat": 8.1
+  },
+  {
+    "name": "Natillas sabor vainilla",
+    "kcal": 103.6,
+    "protein": 3.7,
+    "carbs": 15.5,
+    "fat": 2.9
+  },
+  {
+    "name": "Queso azul",
+    "kcal": 349.4,
+    "protein": 21.1,
+    "carbs": 0.0,
+    "fat": 29.8
+  },
+  {
+    "name": "Queso brie",
+    "kcal": 341.4,
+    "protein": 17.2,
+    "carbs": 0.0,
+    "fat": 30.7
+  },
+  {
+    "name": "Queso cabra, curado",
+    "kcal": 462.3,
+    "protein": 27.6,
+    "carbs": 0.0,
+    "fat": 39.6
+  },
+  {
+    "name": "Queso cabrales",
+    "kcal": 375.6,
+    "protein": 21.5,
+    "carbs": 0.0,
+    "fat": 32.6
+  },
+  {
+    "name": "Queso curado, genérico",
+    "kcal": 448.1,
+    "protein": 35.8,
+    "carbs": 0.5,
+    "fat": 34.0
+  },
+  {
+    "name": "Queso de bola",
+    "kcal": 334.4,
+    "protein": 20.7,
+    "carbs": 0.0,
+    "fat": 28.3
+  },
+  {
+    "name": "Queso edam",
+    "kcal": 334.4,
+    "protein": 20.7,
+    "carbs": 0.0,
+    "fat": 28.3
+  },
+  {
+    "name": "Queso emmental",
+    "kcal": 365.6,
+    "protein": 27.3,
+    "carbs": 0.0,
+    "fat": 28.8
+  },
+  {
+    "name": "Queso en porciones",
+    "kcal": 308.8,
+    "protein": 18.0,
+    "carbs": 2.5,
+    "fat": 25.5
+  },
+  {
+    "name": "Queso fresco de burgos",
+    "kcal": 196.7,
+    "protein": 12.4,
+    "carbs": 2.5,
+    "fat": 15.4
+  },
+  {
+    "name": "Queso manchego",
+    "kcal": 387.8,
+    "protein": 28.8,
+    "carbs": 0.5,
+    "fat": 30.4
+  },
+  {
+    "name": "Queso mozzarella",
+    "kcal": 221.6,
+    "protein": 19.5,
+    "carbs": 0.0,
+    "fat": 16.1
+  },
+  {
+    "name": "Queso para untar",
+    "kcal": 359.4,
+    "protein": 15.6,
+    "carbs": 2.3,
+    "fat": 32.4
+  },
+  {
+    "name": "Queso parmesano",
+    "kcal": 365.6,
+    "protein": 32.3,
+    "carbs": 0.0,
+    "fat": 26.5
+  },
+  {
+    "name": "Queso rallado, genérico",
+    "kcal": 393.2,
+    "protein": 26.9,
+    "carbs": 0.0,
+    "fat": 32.1
+  },
+  {
+    "name": "Queso roquefort",
+    "kcal": 352.6,
+    "protein": 15.4,
+    "carbs": 0.0,
+    "fat": 32.8
+  },
+  {
+    "name": "Queso semicurado, genérico",
+    "kcal": 388.7,
+    "protein": 29.0,
+    "carbs": 0.5,
+    "fat": 30.4
+  },
+  {
+    "name": "Queso tierno, genérico",
+    "kcal": 330.3,
+    "protein": 26.0,
+    "carbs": 0.0,
+    "fat": 25.4
+  },
+  {
+    "name": "Requesón",
+    "kcal": 101.5,
+    "protein": 12.3,
+    "carbs": 3.3,
+    "fat": 4.3
+  },
+  {
+    "name": "Leche fermentada, bifidobacterium, entera, natural",
+    "kcal": 62.6,
+    "protein": 3.6,
+    "carbs": 4.4,
+    "fat": 3.4
+  },
+  {
+    "name": "Batido fermentado de soja",
+    "kcal": 89.3,
+    "protein": 2.4,
+    "carbs": 17.1,
+    "fat": 1.2
+  },
+  {
+    "name": "Yogur griego",
+    "kcal": 138.1,
+    "protein": 6.4,
+    "carbs": 5.4,
+    "fat": 10.2
+  },
+  {
+    "name": "Yogur líquido, \"tipo actimel\"",
+    "kcal": 62.6,
+    "protein": 3.6,
+    "carbs": 4.4,
+    "fat": 3.4
+  },
+  {
+    "name": "Yogur, desnatado, con cereales, manzana y ciruela",
+    "kcal": 70.4,
+    "protein": 3.8,
+    "carbs": 13.1,
+    "fat": 0.2
+  },
+  {
+    "name": "Yogur, desnatado, con ciruela, albaricoque y fibra",
+    "kcal": 57.8,
+    "protein": 4.1,
+    "carbs": 9.9,
+    "fat": 0.1
+  },
+  {
+    "name": "Yogur, desnatado, con fresa, grosella y fibra",
+    "kcal": 57.8,
+    "protein": 4.1,
+    "carbs": 9.9,
+    "fat": 0.1
+  },
+  {
+    "name": "Yogur, desnatado, con frutas",
+    "kcal": 70.6,
+    "protein": 3.8,
+    "carbs": 13.1,
+    "fat": 0.2
+  },
+  {
+    "name": "Yogur, desnatado, con melocotón, frambuesa y fibra",
+    "kcal": 57.8,
+    "protein": 4.1,
+    "carbs": 9.9,
+    "fat": 0.1
+  },
+  {
+    "name": "Yogur, desnatado, sabor natural",
+    "kcal": 45.9,
+    "protein": 4.3,
+    "carbs": 6.3,
+    "fat": 0.3
+  },
+  {
+    "name": "Yogur, desnatado, sabor natural, azucarado",
+    "kcal": 77.0,
+    "protein": 4.5,
+    "carbs": 13.8,
+    "fat": 0.3
+  },
+  {
+    "name": "Yogur, desnatado, aromatizado sabor s/e",
+    "kcal": 64.1,
+    "protein": 5.3,
+    "carbs": 7.0,
+    "fat": 1.6
+  },
+  {
+    "name": "Yogur, entero, con cereales y fresas",
+    "kcal": 91.3,
+    "protein": 3.5,
+    "carbs": 11.8,
+    "fat": 3.3
+  },
+  {
+    "name": "Yogur, entero, con frutas del bosque",
+    "kcal": 90.1,
+    "protein": 3.3,
+    "carbs": 11.9,
+    "fat": 3.2
+  },
+  {
+    "name": "Yogur, líquido, entero, con fresas",
+    "kcal": 90.4,
+    "protein": 3.3,
+    "carbs": 12.2,
+    "fat": 3.1
+  },
+  {
+    "name": "Yogur, líquido, entero, con frutas",
+    "kcal": 90.1,
+    "protein": 3.3,
+    "carbs": 11.9,
+    "fat": 3.2
+  },
+  {
+    "name": "Yogur, líquido, entero, sabor fresa",
+    "kcal": 115.4,
+    "protein": 5.4,
+    "carbs": 15.6,
+    "fat": 3.4
+  },
+  {
+    "name": "Yogur, líquido, entero, sabor fresa y plátano",
+    "kcal": 115.4,
+    "protein": 5.4,
+    "carbs": 15.6,
+    "fat": 3.4
+  },
+  {
+    "name": "Yogur, líquido, entero, sabor frutas del bosque",
+    "kcal": 115.4,
+    "protein": 5.4,
+    "carbs": 15.6,
+    "fat": 3.4
+  },
+  {
+    "name": "Yogur, líquido, entero, sabor piña y coco",
+    "kcal": 115.4,
+    "protein": 5.4,
+    "carbs": 15.6,
+    "fat": 3.4
+  },
+  {
+    "name": "Aceite de girasol",
+    "kcal": 883.4,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 99.9
+  },
+  {
+    "name": "Aceite de lino",
+    "kcal": 884.3,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 100.0
+  },
+  {
+    "name": "Aceite de oliva",
+    "kcal": 883.4,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 99.9
+  },
+  {
+    "name": "Aceite de oliva virgen extra",
+    "kcal": 884.3,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 100.0
+  },
+  {
+    "name": "Aceite de oliva virgen extra, producción ecologica",
+    "kcal": 884.3,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 100.0
+  },
+  {
+    "name": "Aceite de soja",
+    "kcal": 884.2,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 100.0
+  },
+  {
+    "name": "Grasa de pollo",
+    "kcal": 882.6,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 99.8
+  },
+  {
+    "name": "Lecitina de soja",
+    "kcal": 501.2,
+    "protein": 0.0,
+    "carbs": 8.0,
+    "fat": 53.0
+  },
+  {
+    "name": "Manteca",
+    "kcal": 875.5,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 99.0
+  },
+  {
+    "name": "Mantequilla, baja en calorías",
+    "kcal": 500.7,
+    "protein": 3.3,
+    "carbs": 0.0,
+    "fat": 55.1
+  },
+  {
+    "name": "Margarina de maíz",
+    "kcal": 714.8,
+    "protein": 0.9,
+    "carbs": 0.9,
+    "fat": 80.0
+  },
+  {
+    "name": "Margarina, baja en calorías",
+    "kcal": 361.9,
+    "protein": 1.6,
+    "carbs": 0.4,
+    "fat": 40.0
+  },
+  {
+    "name": "Mayonesa con aceite de girasol",
+    "kcal": 697.4,
+    "protein": 1.3,
+    "carbs": 5.8,
+    "fat": 75.6
+  },
+  {
+    "name": "Mayonesa, baja en calorías",
+    "kcal": 296.4,
+    "protein": 1.0,
+    "carbs": 10.8,
+    "fat": 28.1
+  },
+  {
+    "name": "Nata montada",
+    "kcal": 303.2,
+    "protein": 2.4,
+    "carbs": 3.3,
+    "fat": 31.7
+  },
+  {
+    "name": "Vinagre de manzana",
+    "kcal": 4.1,
+    "protein": 0.4,
+    "carbs": 0.6,
+    "fat": 0.0
+  },
+  {
+    "name": "Vinagre balsámico",
+    "kcal": 71.2,
+    "protein": 0.5,
+    "carbs": 17.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Vainilla",
+    "kcal": 52.4,
+    "protein": 0.1,
+    "carbs": 12.7,
+    "fat": 0.1
+  },
+  {
+    "name": "Tomillo, seco",
+    "kcal": 334.4,
+    "protein": 9.1,
+    "carbs": 57.1,
+    "fat": 7.4
+  },
+  {
+    "name": "Tomate frito",
+    "kcal": 83.8,
+    "protein": 1.5,
+    "carbs": 5.2,
+    "fat": 6.4
+  },
+  {
+    "name": "Tabasco",
+    "kcal": 15.2,
+    "protein": 1.3,
+    "carbs": 0.8,
+    "fat": 0.8
+  },
+  {
+    "name": "Surimi",
+    "kcal": 90.7,
+    "protein": 14.7,
+    "carbs": 6.1,
+    "fat": 0.7
+  },
+  {
+    "name": "Suplemento proteico",
+    "kcal": 391.9,
+    "protein": 87.8,
+    "carbs": 0.0,
+    "fat": 4.0
+  },
+  {
+    "name": "Sopa de sobre, sin reconstituir",
+    "kcal": 319.7,
+    "protein": 11.0,
+    "carbs": 58.2,
+    "fat": 4.3
+  },
+  {
+    "name": "Sopa de sobre maravilla",
+    "kcal": 331.8,
+    "protein": 12.6,
+    "carbs": 62.0,
+    "fat": 3.2
+  },
+  {
+    "name": "Pasta de sésamo",
+    "kcal": 590.5,
+    "protein": 18.2,
+    "carbs": 0.9,
+    "fat": 58.0
+  },
+  {
+    "name": "Seitán",
+    "kcal": 123.3,
+    "protein": 24.0,
+    "carbs": 2.0,
+    "fat": 2.0
+  },
+  {
+    "name": "San jacobo, congelado",
+    "kcal": 237.0,
+    "protein": 4.1,
+    "carbs": 25.2,
+    "fat": 13.3
+  },
+  {
+    "name": "Comino",
+    "kcal": 417.7,
+    "protein": 17.8,
+    "carbs": 45.4,
+    "fat": 18.2
+  },
+  {
+    "name": "Complejo vitaminico",
+    "kcal": 564.3,
+    "protein": 20.1,
+    "carbs": 18.8,
+    "fat": 45.9
+  },
+  {
+    "name": "Ajo, en polvo",
+    "kcal": 369.2,
+    "protein": 16.6,
+    "carbs": 72.7,
+    "fat": 0.7
+  },
+  {
+    "name": "Corteza de trigo",
+    "kcal": 481.9,
+    "protein": 10.3,
+    "carbs": 52.2,
+    "fat": 25.8
+  },
+  {
+    "name": "Salsa de soja",
+    "kcal": 63.5,
+    "protein": 8.7,
+    "carbs": 6.7,
+    "fat": 0.1
+  },
+  {
+    "name": "Salsa de queso",
+    "kcal": 109.6,
+    "protein": 5.3,
+    "carbs": 8.4,
+    "fat": 6.1
+  },
+  {
+    "name": "Salsa boloñesa",
+    "kcal": 144.5,
+    "protein": 8.0,
+    "carbs": 3.4,
+    "fat": 11.1
+  },
+  {
+    "name": "Salsa bechamel",
+    "kcal": 151.6,
+    "protein": 4.1,
+    "carbs": 10.8,
+    "fat": 10.3
+  },
+  {
+    "name": "Salsa barbacoa",
+    "kcal": 176.9,
+    "protein": 1.8,
+    "carbs": 37.8,
+    "fat": 1.8
+  },
+  {
+    "name": "Salsa al curry",
+    "kcal": 77.9,
+    "protein": 0.7,
+    "carbs": 9.1,
+    "fat": 2.3
+  },
+  {
+    "name": "Salsa agridulce",
+    "kcal": 120.5,
+    "protein": 0.5,
+    "carbs": 24.0,
+    "fat": 2.4
+  },
+  {
+    "name": "Sal yodada",
+    "kcal": 0.0,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Romero",
+    "kcal": 343.3,
+    "protein": 5.0,
+    "carbs": 46.4,
+    "fat": 15.2
+  },
+  {
+    "name": "Rollito de primavera",
+    "kcal": 250.1,
+    "protein": 8.3,
+    "carbs": 27.3,
+    "fat": 11.9
+  },
+  {
+    "name": "Pudding de pasas",
+    "kcal": 296.2,
+    "protein": 4.6,
+    "carbs": 47.2,
+    "fat": 9.7
+  },
+  {
+    "name": "Pizza, precocinada",
+    "kcal": 210.2,
+    "protein": 8.2,
+    "carbs": 22.2,
+    "fat": 9.8
+  },
+  {
+    "name": "Pimienta, negra",
+    "kcal": 230.0,
+    "protein": 11.0,
+    "carbs": 38.3,
+    "fat": 3.3
+  },
+  {
+    "name": "Pimienta, blanca",
+    "kcal": 232.0,
+    "protein": 10.4,
+    "carbs": 42.4,
+    "fat": 2.1
+  },
+  {
+    "name": "Pimentón, en polvo",
+    "kcal": 329.5,
+    "protein": 14.8,
+    "carbs": 38.0,
+    "fat": 13.0
+  },
+  {
+    "name": "Perejil, fresco",
+    "kcal": 34.7,
+    "protein": 3.0,
+    "carbs": 2.7,
+    "fat": 1.3
+  },
+  {
+    "name": "Patatas, fritas, chips",
+    "kcal": 536.2,
+    "protein": 6.5,
+    "carbs": 49.5,
+    "fat": 34.9
+  },
+  {
+    "name": "Paella marinera",
+    "kcal": 122.0,
+    "protein": 3.5,
+    "carbs": 25.1,
+    "fat": 0.6
+  },
+  {
+    "name": "Paella",
+    "kcal": 171.9,
+    "protein": 12.4,
+    "carbs": 17.4,
+    "fat": 5.7
+  },
+  {
+    "name": "Orégano, seco",
+    "kcal": 415.8,
+    "protein": 11.0,
+    "carbs": 68.9,
+    "fat": 10.3
+  },
+  {
+    "name": "Nuez moscada",
+    "kcal": 544.8,
+    "protein": 5.8,
+    "carbs": 49.3,
+    "fat": 36.3
+  },
+  {
+    "name": "Mostaza",
+    "kcal": 132.7,
+    "protein": 5.9,
+    "carbs": 5.0,
+    "fat": 10.0
+  },
+  {
+    "name": "Mojo picon",
+    "kcal": 708.8,
+    "protein": 0.9,
+    "carbs": 1.8,
+    "fat": 78.9
+  },
+  {
+    "name": "Fritos de maíz",
+    "kcal": 564.0,
+    "protein": 6.6,
+    "carbs": 51.0,
+    "fat": 37.3
+  },
+  {
+    "name": "Laurel, hoja",
+    "kcal": 302.6,
+    "protein": 7.6,
+    "carbs": 48.6,
+    "fat": 8.4
+  },
+  {
+    "name": "Lasaña",
+    "kcal": 137.3,
+    "protein": 6.3,
+    "carbs": 10.3,
+    "fat": 7.9
+  },
+  {
+    "name": "Ketchup",
+    "kcal": 103.8,
+    "protein": 3.4,
+    "carbs": 21.7,
+    "fat": 0.2
+  },
+  {
+    "name": "Jengibre",
+    "kcal": 51.7,
+    "protein": 1.7,
+    "carbs": 9.5,
+    "fat": 0.7
+  },
+  {
+    "name": "Hojaldre",
+    "kcal": 550.1,
+    "protein": 7.4,
+    "carbs": 44.2,
+    "fat": 38.5
+  },
+  {
+    "name": "Hinojo",
+    "kcal": 14.0,
+    "protein": 1.1,
+    "carbs": 2.3,
+    "fat": 0.0
+  },
+  {
+    "name": "Gusanito",
+    "kcal": 475.6,
+    "protein": 9.1,
+    "carbs": 50.9,
+    "fat": 26.2
+  },
+  {
+    "name": "Guindilla, picante",
+    "kcal": 44.5,
+    "protein": 1.9,
+    "carbs": 6.7,
+    "fat": 1.1
+  },
+  {
+    "name": "Guindilla, en polvo",
+    "kcal": 303.8,
+    "protein": 12.0,
+    "carbs": 31.7,
+    "fat": 14.3
+  },
+  {
+    "name": "Gomasio",
+    "kcal": 88.6,
+    "protein": 2.7,
+    "carbs": 0.1,
+    "fat": 8.7
+  },
+  {
+    "name": "Gelatina",
+    "kcal": 342.9,
+    "protein": 84.4,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Gazpacho",
+    "kcal": 33.7,
+    "protein": 0.6,
+    "carbs": 1.6,
+    "fat": 2.8
+  },
+  {
+    "name": "Flamenquín",
+    "kcal": 229.7,
+    "protein": 19.2,
+    "carbs": 4.4,
+    "fat": 15.1
+  },
+  {
+    "name": "Fabada",
+    "kcal": 157.1,
+    "protein": 6.1,
+    "carbs": 13.4,
+    "fat": 8.8
+  },
+  {
+    "name": "Ensaladilla rusa",
+    "kcal": 109.7,
+    "protein": 2.7,
+    "carbs": 9.8,
+    "fat": 6.7
+  },
+  {
+    "name": "Eneldo, seco",
+    "kcal": 291.2,
+    "protein": 19.9,
+    "carbs": 42.2,
+    "fat": 4.4
+  },
+  {
+    "name": "Empanadilla",
+    "kcal": 246.6,
+    "protein": 4.8,
+    "carbs": 29.7,
+    "fat": 12.0
+  },
+  {
+    "name": "Empanada de carne",
+    "kcal": 298.0,
+    "protein": 21.9,
+    "carbs": 12.0,
+    "fat": 18.1
+  },
+  {
+    "name": "Curry",
+    "kcal": 437.4,
+    "protein": 15.0,
+    "carbs": 60.0,
+    "fat": 15.0
+  },
+  {
+    "name": "Cubito de caldo",
+    "kcal": 249.5,
+    "protein": 15.7,
+    "carbs": 5.0,
+    "fat": 18.7
+  },
+  {
+    "name": "Rape, crudo",
+    "kcal": 69.9,
+    "protein": 15.9,
+    "carbs": 0.0,
+    "fat": 0.6
+  },
+  {
+    "name": "Rape, plancha",
+    "kcal": 86.8,
+    "protein": 17.0,
+    "carbs": 0.0,
+    "fat": 2.0
+  },
+  {
+    "name": "Rodaballo",
+    "kcal": 97.3,
+    "protein": 16.1,
+    "carbs": 0.0,
+    "fat": 3.6
+  },
+  {
+    "name": "Salmón",
+    "kcal": 180.9,
+    "protein": 18.4,
+    "carbs": 0.0,
+    "fat": 12.0
+  },
+  {
+    "name": "Salmón ahumado",
+    "kcal": 180.1,
+    "protein": 25.4,
+    "carbs": 0.0,
+    "fat": 8.7
+  },
+  {
+    "name": "Salmón, plancha",
+    "kcal": 179.3,
+    "protein": 20.2,
+    "carbs": 0.0,
+    "fat": 11.0
+  },
+  {
+    "name": "Salmonete",
+    "kcal": 90.0,
+    "protein": 14.1,
+    "carbs": 0.0,
+    "fat": 3.7
+  },
+  {
+    "name": "Sardina",
+    "kcal": 139.9,
+    "protein": 18.1,
+    "carbs": 0.0,
+    "fat": 7.5
+  },
+  {
+    "name": "Sardina, asada",
+    "kcal": 255.2,
+    "protein": 16.7,
+    "carbs": 0.0,
+    "fat": 21.2
+  },
+  {
+    "name": "Sardina, enlatada, en aceite, escurrida",
+    "kcal": 236.5,
+    "protein": 23.9,
+    "carbs": 0.0,
+    "fat": 15.8
+  },
+  {
+    "name": "Sardina, enlatada, en escabeche",
+    "kcal": 130.5,
+    "protein": 15.0,
+    "carbs": 0.8,
+    "fat": 7.5
+  },
+  {
+    "name": "Sargo, crudo",
+    "kcal": 99.9,
+    "protein": 15.0,
+    "carbs": 0.0,
+    "fat": 4.4
+  },
+  {
+    "name": "Sepia",
+    "kcal": 80.4,
+    "protein": 17.6,
+    "carbs": 0.0,
+    "fat": 1.0
+  },
+  {
+    "name": "Trucha",
+    "kcal": 90.3,
+    "protein": 15.7,
+    "carbs": 0.0,
+    "fat": 3.0
+  },
+  {
+    "name": "Vieira",
+    "kcal": 85.2,
+    "protein": 19.0,
+    "carbs": 0.0,
+    "fat": 0.9
+  },
+  {
+    "name": "Zamburiñas",
+    "kcal": 77.5,
+    "protein": 15.4,
+    "carbs": 1.5,
+    "fat": 1.0
+  },
+  {
+    "name": "Almeja",
+    "kcal": 47.9,
+    "protein": 10.7,
+    "carbs": 0.0,
+    "fat": 1.6
+  },
+  {
+    "name": "Almejas en conserva",
+    "kcal": 80.5,
+    "protein": 17.4,
+    "carbs": 1.5,
+    "fat": 0.4
+  },
+  {
+    "name": "Azúcar blanca",
+    "kcal": 406.3,
+    "protein": 0.0,
+    "carbs": 100.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Miel",
+    "kcal": 314.1,
+    "protein": 0.5,
+    "carbs": 76.8,
+    "fat": 0.0
+  },
+  {
+    "name": "Harina de maíz",
+    "kcal": 328.0,
+    "protein": 8.3,
+    "carbs": 66.3,
+    "fat": 2.8
+  },
+  {
+    "name": "Caramelo",
+    "kcal": 387.6,
+    "protein": 0.4,
+    "carbs": 95.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Bombón",
+    "kcal": 475.1,
+    "protein": 4.8,
+    "carbs": 66.0,
+    "fat": 21.2
+  },
+  {
+    "name": "Cacao en polvo, azucarado",
+    "kcal": 388.5,
+    "protein": 5.9,
+    "carbs": 81.0,
+    "fat": 4.0
+  },
+  {
+    "name": "Chicle, sin azúcar",
+    "kcal": 2.7,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.3
+  },
+  {
+    "name": "Chocolate blanco",
+    "kcal": 544.7,
+    "protein": 8.0,
+    "carbs": 58.8,
+    "fat": 30.9
+  },
+  {
+    "name": "Chocolate con leche",
+    "kcal": 535.7,
+    "protein": 9.2,
+    "carbs": 54.1,
+    "fat": 31.5
+  },
+  {
+    "name": "Gominola, genérica",
+    "kcal": 266.5,
+    "protein": 4.6,
+    "carbs": 70.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Jalea real",
+    "kcal": 264.9,
+    "protein": 0.2,
+    "carbs": 65.0,
+    "fat": 0.0
+  },
+  {
+    "name": "Mermelada de albaricoque y melocotón, baja en calorías",
+    "kcal": 220.6,
+    "protein": 0.7,
+    "carbs": 53.6,
+    "fat": 0.0
+  },
+  {
+    "name": "Mermelada de frambuesa",
+    "kcal": 251.9,
+    "protein": 0.5,
+    "carbs": 60.9,
+    "fat": 0.3
+  },
+  {
+    "name": "Mermelada de fresa",
+    "kcal": 249.0,
+    "protein": 0.3,
+    "carbs": 59.6,
+    "fat": 0.6
+  },
+  {
+    "name": "Mermelada de fresa, baja en calorías",
+    "kcal": 220.6,
+    "protein": 0.7,
+    "carbs": 53.6,
+    "fat": 0.0
+  },
+  {
+    "name": "Pastel",
+    "kcal": 399.7,
+    "protein": 5.2,
+    "carbs": 49.2,
+    "fat": 20.2
+  },
+  {
+    "name": "Regaliz",
+    "kcal": 323.2,
+    "protein": 3.9,
+    "carbs": 71.5,
+    "fat": 1.9
+  },
+  {
+    "name": "Arroz",
+    "kcal": 385.8,
+    "protein": 7.0,
+    "carbs": 86.0,
+    "fat": 0.9
+  },
+  {
+    "name": "Arroz, hervido",
+    "kcal": 391.8,
+    "protein": 7.5,
+    "carbs": 85.3,
+    "fat": 1.7
+  },
+  {
+    "name": "Barrita cereales con chocolate",
+    "kcal": 395.1,
+    "protein": 9.0,
+    "carbs": 73.0,
+    "fat": 7.0
+  },
+  {
+    "name": "Barrita cereales con frutas",
+    "kcal": 393.6,
+    "protein": 8.0,
+    "carbs": 78.0,
+    "fat": 5.0
+  },
+  {
+    "name": "Bizcocho",
+    "kcal": 381.0,
+    "protein": 6.5,
+    "carbs": 39.6,
+    "fat": 21.9
+  },
+  {
+    "name": "Bollería, genérico",
+    "kcal": 446.4,
+    "protein": 7.0,
+    "carbs": 52.8,
+    "fat": 23.0
+  },
+  {
+    "name": "Cereales base trigo y chocolate",
+    "kcal": 383.7,
+    "protein": 8.0,
+    "carbs": 81.0,
+    "fat": 2.5
+  },
+  {
+    "name": "Cereales, en polvo, solubles (eko)",
+    "kcal": 391.3,
+    "protein": 5.7,
+    "carbs": 89.7,
+    "fat": 0.4
+  },
+  {
+    "name": "Churro",
+    "kcal": 358.1,
+    "protein": 4.6,
+    "carbs": 40.0,
+    "fat": 20.0
+  },
+  {
+    "name": "Croissant",
+    "kcal": 406.0,
+    "protein": 7.5,
+    "carbs": 55.0,
+    "fat": 17.2
+  },
+  {
+    "name": "Donut",
+    "kcal": 393.5,
+    "protein": 6.1,
+    "carbs": 42.0,
+    "fat": 22.4
+  },
+  {
+    "name": "Ensaimada",
+    "kcal": 456.0,
+    "protein": 5.7,
+    "carbs": 38.4,
+    "fat": 31.3
+  },
+  {
+    "name": "Galleta salada",
+    "kcal": 407.8,
+    "protein": 9.4,
+    "carbs": 69.2,
+    "fat": 10.0
+  },
+  {
+    "name": "Galleta, genérico",
+    "kcal": 481.3,
+    "protein": 6.8,
+    "carbs": 64.3,
+    "fat": 21.8
+  },
+  {
+    "name": "Galletas integrales",
+    "kcal": 402.4,
+    "protein": 10.0,
+    "carbs": 42.9,
+    "fat": 21.2
+  },
+  {
+    "name": "Galletas tipo maria",
+    "kcal": 477.1,
+    "protein": 7.1,
+    "carbs": 69.0,
+    "fat": 19.0
+  },
+  {
+    "name": "Gofio",
+    "kcal": 397.2,
+    "protein": 10.8,
+    "carbs": 81.6,
+    "fat": 2.5
+  },
+  {
+    "name": "Harina de trigo",
+    "kcal": 331.1,
+    "protein": 10.0,
+    "carbs": 71.5,
+    "fat": 0.0
+  },
+  {
+    "name": "Magdalena",
+    "kcal": 385.0,
+    "protein": 6.1,
+    "carbs": 39.9,
+    "fat": 22.4
+  },
+  {
+    "name": "Carne picada",
+    "kcal": 243.1,
+    "protein": 15.2,
+    "carbs": 0.0,
+    "fat": 20.5
+  },
+  {
+    "name": "Cabrito lechal, costillar, crudo",
+    "kcal": 224.2,
+    "protein": 17.1,
+    "carbs": 0.0,
+    "fat": 17.5
+  },
+  {
+    "name": "Cabrito lechal, espalda, cruda",
+    "kcal": 204.6,
+    "protein": 18.6,
+    "carbs": 0.0,
+    "fat": 14.6
+  },
+  {
+    "name": "Cabrito lechal, pierna, cruda",
+    "kcal": 189.4,
+    "protein": 18.8,
+    "carbs": 0.0,
+    "fat": 12.8
+  },
+  {
+    "name": "Cordero lechal, costillar, crudo",
+    "kcal": 191.2,
+    "protein": 18.5,
+    "carbs": 0.0,
+    "fat": 13.1
+  },
+  {
+    "name": "Cordero lechal, espalda, cruda",
+    "kcal": 188.7,
+    "protein": 19.5,
+    "carbs": 0.0,
+    "fat": 12.4
+  },
+  {
+    "name": "Cordero lechal, pierna, cruda",
+    "kcal": 186.9,
+    "protein": 19.2,
+    "carbs": 0.0,
+    "fat": 12.3
+  },
+  {
+    "name": "Cordero ligero, costillar, crudo",
+    "kcal": 233.4,
+    "protein": 17.3,
+    "carbs": 0.0,
+    "fat": 18.5
+  },
+  {
+    "name": "Cordero ligero, espalda, cruda",
+    "kcal": 200.2,
+    "protein": 17.6,
+    "carbs": 0.0,
+    "fat": 14.6
+  },
+  {
+    "name": "Cordero ligero, pierna, cruda",
+    "kcal": 183.7,
+    "protein": 19.0,
+    "carbs": 0.0,
+    "fat": 12.1
+  },
+  {
+    "name": "Carne de cerdo de capa blanca, lomo, partes grasa y magra, crudo",
+    "kcal": 141.1,
+    "protein": 24.8,
+    "carbs": 0.0,
+    "fat": 4.6
+  },
+  {
+    "name": "Carne de cerdo de capa blanca, lomo, parte magra, crudo",
+    "kcal": 123.3,
+    "protein": 24.9,
+    "carbs": 0.0,
+    "fat": 2.5
+  },
+  {
+    "name": "Carne de cerdo de capa blanca, chuleta, partes grasa y magra, cruda",
+    "kcal": 159.0,
+    "protein": 22.9,
+    "carbs": 0.0,
+    "fat": 7.4
+  },
+  {
+    "name": "Carne de cerdo de capa blanca, chuleta, parte magra, cruda",
+    "kcal": 137.3,
+    "protein": 22.9,
+    "carbs": 0.0,
+    "fat": 5.0
+  },
+  {
+    "name": "Carne de cerdo de capa blanca, jamón, partes grasa y magra, crudo",
+    "kcal": 128.2,
+    "protein": 23.1,
+    "carbs": 0.0,
+    "fat": 3.9
+  },
+  {
+    "name": "Carne de cerdo de capa blanca, jamón, parte magra, crudo",
+    "kcal": 126.2,
+    "protein": 24.6,
+    "carbs": 0.0,
+    "fat": 3.0
+  },
+  {
+    "name": "Carne de cerdo de capa blanca, cabezada, partes grasa y magra, crudo",
+    "kcal": 252.8,
+    "protein": 20.0,
+    "carbs": 0.0,
+    "fat": 19.4
+  },
+  {
+    "name": "Carne de cerdo de capa blanca, cabezada, parte magra, cruda",
+    "kcal": 164.1,
+    "protein": 21.9,
+    "carbs": 0.0,
+    "fat": 8.5
+  },
+  {
+    "name": "Cabrito lechal, costillar, asado",
+    "kcal": 263.7,
+    "protein": 22.5,
+    "carbs": 0.0,
+    "fat": 19.5
+  },
+  {
+    "name": "Cordero lechal, costillar, asado",
+    "kcal": 233.7,
+    "protein": 21.6,
+    "carbs": 0.0,
+    "fat": 16.5
+  },
+  {
+    "name": "Cordero ligero, costillar, asado",
+    "kcal": 272.8,
+    "protein": 21.6,
+    "carbs": 0.0,
+    "fat": 20.9
+  }
+]

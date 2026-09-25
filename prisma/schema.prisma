@@ -1,0 +1,150 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           String     @id @default(cuid())
+  email        String     @unique
+  name         String
+  passwordHash String
+  knownTags    String     @default("")
+  activities   Activity[]
+  profile      BodyProfile?
+  dietEntries  DietEntry[]
+  mealPlans    MealPlan[]
+  createdAt    DateTime   @default(now())
+}
+
+model Activity {
+  id         String    @id @default(cuid())
+  userId     String
+  user       User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  name       String
+  color      String
+  days       String    @default("")
+  tags         String  @default("")
+  useSchedule  Boolean @default(false)
+  scheduleTime String?
+  startsOn     String?
+  endsOn       String?
+  skipDates    String   @default("")
+  sortOrder  Int       @default(0)
+  archivedAt DateTime?
+  checks     Check[]
+  items      ActivityItem[]
+  createdAt  DateTime  @default(now())
+
+  @@index([userId])
+}
+
+model ActivityItem {
+  id         String   @id @default(cuid())
+  activityId String
+  activity   Activity @relation(fields: [activityId], references: [id], onDelete: Cascade)
+  text       String
+  sortOrder  Int      @default(0)
+  createdAt  DateTime @default(now())
+
+  @@index([activityId])
+}
+
+model Check {
+  id         String   @id @default(cuid())
+  activityId String
+  activity   Activity @relation(fields: [activityId], references: [id], onDelete: Cascade)
+  date       String
+  time       String?
+  createdAt  DateTime @default(now())
+
+  @@unique([activityId, date])
+  @@index([date])
+}
+
+model Quote {
+  id     Int    @id @default(autoincrement())
+  text   String
+  author String
+  source String
+}
+
+model Food {
+  id          Int         @id @default(autoincrement())
+  name        String
+  kcal        Float
+  protein     Float
+  carbs       Float
+  fat         Float
+  unitGrams   Float?
+  barcode     String?     @unique
+  category    String      @default("")
+  market      String      @default("")
+  price       Float?
+  packageSize String      @default("")
+  imageUrl    String      @default("")
+  dietEntries DietEntry[]
+  planLines   MealPlanLine[]
+
+  @@index([name])
+}
+
+model MealPlan {
+  id        String         @id @default(cuid())
+  userId    String
+  user      User           @relation(fields: [userId], references: [id], onDelete: Cascade)
+  name      String
+  active    Boolean        @default(false)
+  createdAt DateTime       @default(now())
+  updatedAt DateTime       @updatedAt
+  lines     MealPlanLine[]
+
+  @@index([userId])
+}
+
+model MealPlanLine {
+  id             String   @id @default(cuid())
+  planId         String
+  plan           MealPlan @relation(fields: [planId], references: [id], onDelete: Cascade)
+  slot           String
+  foodId         Int?
+  food           Food?    @relation(fields: [foodId], references: [id])
+  name           String
+  grams          Float
+  kcalPer100     Float
+  proteinPer100  Float
+  carbsPer100    Float
+  fatPer100      Float
+  note           String   @default("")
+  sortOrder      Int      @default(0)
+
+  @@index([planId])
+}
+
+model BodyProfile {
+  id              String @id @default(cuid())
+  userId          String @unique
+  user            User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+  sex             String
+  age             Int
+  heightCm        Float
+  weightKg        Float
+  activityFactor  Float  @default(1.2)
+  deficitPercent  Int    @default(0)
+}
+
+model DietEntry {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  foodId    Int
+  food      Food     @relation(fields: [foodId], references: [id], onDelete: Cascade)
+  date      String
+  grams     Float
+  createdAt DateTime @default(now())
+
+  @@index([userId, date])
+}

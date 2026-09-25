@@ -1,26 +1,65 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #fafafa;
+  --foreground: #18181b;
+  --cell-empty: #ebedf0;
+  --font-sans: var(--font-geist-sans), sans-serif;
+}
+
+.dark {
+  --background: #09090b;
+  --foreground: #f4f4f5;
+  --cell-empty: #161b22;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --font-sans: var(--font-sans);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+}
+
+@property --progress {
+  syntax: "<number>";
+  inherits: true;
+  initial-value: 0;
+}
+
+.progress-ring {
+  background: conic-gradient(
+    #22c55e calc(var(--progress) * 3.6deg),
+    var(--cell-empty) 0deg
+  );
+}
+
+.progress-bar {
+  width: calc(var(--progress) * 1%);
+}
+
+.fold-panel {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 320ms ease;
+}
+
+.fold-panel[data-open="true"] {
+  grid-template-rows: 1fr;
+}
+
+.fold-panel > div {
+  overflow: hidden;
+}
+
+.press {
+  transition: transform 140ms ease, background-color 140ms ease, color 140ms ease;
+}
+
+.press:active {
+  transform: scale(0.94);
 }

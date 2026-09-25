@@ -1,0 +1,82 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: proscout
+---
+apiVersion: v1
+kind: Secret
+metadata:
+  name: proscout-auth
+  namespace: proscout
+type: Opaque
+stringData:
+  AUTH_SECRET: cambia-esto-por-un-secreto-largo
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: proscout-data
+  namespace: proscout
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 1Gi
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: proscout
+  namespace: proscout
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: proscout
+  template:
+    metadata:
+      labels:
+        app: proscout
+    spec:
+      containers:
+        - name: proscout
+          image: proscout:local
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 3000
+          env:
+            - name: DATABASE_URL
+              value: file:/data/proscout.db
+            - name: AUTH_TRUST_HOST
+              value: "true"
+            - name: AUTH_SECRET
+              valueFrom:
+                secretKeyRef:
+                  name: proscout-auth
+                  key: AUTH_SECRET
+          volumeMounts:
+            - name: data
+              mountPath: /data
+          readinessProbe:
+            httpGet:
+              path: /login
+              port: 3000
+            initialDelaySeconds: 20
+            periodSeconds: 10
+      volumes:
+        - name: data
+          persistentVolumeClaim:
+            claimName: proscout-data
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: proscout
+  namespace: proscout
+spec:
+  selector:
+    app: proscout
+  ports:
+    - port: 80
+      targetPort: 3000
