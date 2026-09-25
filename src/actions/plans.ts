@@ -13,7 +13,9 @@ function revalidate() {
 export async function replacePlanLines(planId: string, userId: string) {
   const profile = await prisma.bodyProfile.findUnique({ where: { userId } });
   if (!profile) return;
-  const foods = await prisma.food.findMany({ where: { market: "" } });
+  const foods = await prisma.food.findMany({
+    where: { market: "", NOT: { category: { contains: "general" } } },
+  });
   const built = buildMealPlan(profile, foods);
   const byName = new Map(foods.map((food) => [food.name, food]));
   await prisma.mealPlanLine.deleteMany({ where: { planId } });
@@ -143,6 +145,29 @@ export async function movePlanLine(lineId: string, slot: string) {
   });
   if (!line || line.slot === slot) return;
   await prisma.mealPlanLine.update({ where: { id: line.id }, data: { slot } });
+  revalidate();
+}
+
+export async function clearPlan(planId: string) {
+  const user = await requireUser();
+  const plan = await prisma.mealPlan.findFirst({
+    where: { id: planId, userId: user.id },
+    select: { id: true },
+  });
+  if (!plan) return;
+  await prisma.mealPlanLine.deleteMany({ where: { planId: plan.id } });
+  revalidate();
+}
+
+export async function clearPlanSlot(planId: string, slot: string) {
+  const user = await requireUser();
+  if (!PLAN_SLOTS.includes(slot as (typeof PLAN_SLOTS)[number])) return;
+  const plan = await prisma.mealPlan.findFirst({
+    where: { id: planId, userId: user.id },
+    select: { id: true },
+  });
+  if (!plan) return;
+  await prisma.mealPlanLine.deleteMany({ where: { planId: plan.id, slot } });
   revalidate();
 }
 

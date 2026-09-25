@@ -1,7 +1,7 @@
 "use client";
 
-import { Fragment, useEffect, useState } from "react";
-import { movePlanLine } from "@/actions/plans";
+import { useEffect, useState } from "react";
+import { clearPlan, clearPlanSlot, movePlanLine } from "@/actions/plans";
 import { PlanLineEditor } from "@/components/PlanLineEditor";
 import { PLAN_SLOTS, kcalGap } from "@/lib/meal-plan";
 
@@ -35,7 +35,7 @@ type Row = {
   barcode: string;
 };
 
-export function PlanMeals({ lines, target }: { lines: Row[]; target: number }) {
+export function PlanMeals({ planId, lines, target }: { planId: string; lines: Row[]; target: number }) {
   const [rows, setRows] = useState(lines);
   const [over, setOver] = useState("");
   useEffect(() => {
@@ -61,7 +61,21 @@ export function PlanMeals({ lines, target }: { lines: Row[]; target: number }) {
 
   return (
     <>
-      <p className="text-sm">{kcalGap(total.kcal, target)}</p>
+      <div className="flex flex-wrap items-center justify-between gap-3">
+        <p className="text-sm">{kcalGap(total.kcal, target)}</p>
+        {rows.length > 0 ? (
+          <button
+            type="button"
+            onClick={() => {
+              setRows([]);
+              void clearPlan(planId);
+            }}
+            className="press rounded-full border border-zinc-300 px-3 py-1 text-sm dark:border-zinc-700"
+          >
+            Limpiar plan
+          </button>
+        ) : null}
+      </div>
       <div className="overflow-x-auto">
         <table className="w-full min-w-[36rem] border-separate border-spacing-y-1 text-sm">
           <thead>
@@ -75,7 +89,6 @@ export function PlanMeals({ lines, target }: { lines: Row[]; target: number }) {
               <th />
             </tr>
           </thead>
-          <tbody>
             {PLAN_SLOTS.map((key) => {
               const slotLines = rows.filter((row) => row.slot === key);
               const sub = slotLines.reduce(
@@ -88,11 +101,33 @@ export function PlanMeals({ lines, target }: { lines: Row[]; target: number }) {
                 },
                 { kcal: 0, protein: 0, carbs: 0, fat: 0 },
               );
+              const active = over === key;
               return (
-                <Fragment key={key}>
-                  <tr data-slot={key} className={over === key ? "outline outline-2 outline-zinc-900 dark:outline-zinc-100" : ""}>
-                    <td colSpan={7} className="pt-3 font-medium">
-                      {SLOT_LABEL[key]}
+                <tbody
+                  key={key}
+                  data-slot={key}
+                  className={`meal-slot ${active ? "bg-zinc-100 dark:bg-zinc-900" : ""}`}
+                >
+                  <tr>
+                    <td
+                      colSpan={7}
+                      className={`pt-3 font-medium ${active ? "shadow-[inset_0_0_0_2px] shadow-zinc-900 dark:shadow-zinc-100" : ""}`}
+                    >
+                      <span className="flex items-center justify-between gap-3">
+                        {SLOT_LABEL[key]}
+                        {slotLines.length > 0 ? (
+                          <button
+                            type="button"
+                            onClick={() => {
+                              setRows(rows.filter((row) => row.slot !== key));
+                              void clearPlanSlot(planId, key);
+                            }}
+                            className="press text-sm font-normal text-zinc-500 underline"
+                          >
+                            Limpiar
+                          </button>
+                        ) : null}
+                      </span>
                     </td>
                   </tr>
                   {slotLines.map((line) => (
@@ -103,10 +138,7 @@ export function PlanMeals({ lines, target }: { lines: Row[]; target: number }) {
                       onMove={(slot) => move(line.id, slot)}
                     />
                   ))}
-                  <tr
-                    data-slot={key}
-                    className={`text-zinc-500 ${over === key ? "outline outline-2 outline-zinc-900 dark:outline-zinc-100" : ""}`}
-                  >
+                  <tr className="text-zinc-500">
                     <td>Suma {SLOT_LABEL[key].toLowerCase()}</td>
                     <td />
                     <td>{sub.kcal}</td>
@@ -115,9 +147,10 @@ export function PlanMeals({ lines, target }: { lines: Row[]; target: number }) {
                     <td>{sub.fat.toFixed(1)}</td>
                     <td />
                   </tr>
-                </Fragment>
+                </tbody>
               );
             })}
+            <tbody>
             <tr className="font-medium">
               <td className="pt-3">Total del día</td>
               <td />
@@ -127,7 +160,7 @@ export function PlanMeals({ lines, target }: { lines: Row[]; target: number }) {
               <td className="pt-3">{total.fat.toFixed(1)}</td>
               <td />
             </tr>
-          </tbody>
+            </tbody>
         </table>
       </div>
     </>

@@ -63,3 +63,7 @@ body {
 .press:active {
   transform: scale(0.94);
 }
+
+.meal-slot {
+  transition: background-color 180ms ease;
+}

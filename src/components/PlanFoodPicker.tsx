@@ -35,6 +35,7 @@ export type PickerFood = {
 export function PlanFoodPicker({ planId, foods }: { planId: string; foods: PickerFood[] }) {
   const [slot, setSlot] = useState<(typeof PLAN_SLOTS)[number]>("comida");
   const [market, setMarket] = useState("");
+  const [tags, setTags] = useState<string[]>([]);
   const [query, setQuery] = useState("");
   const [photos, setPhotos] = useState(true);
   useEffect(() => {
@@ -44,13 +45,27 @@ export function PlanFoodPicker({ planId, foods }: { planId: string; foods: Picke
     () => foods.map((food) => ({ ...food, folded: foldFoodQuery(food.name) })),
     [foods],
   );
+  const availableTags = useMemo(() => {
+    const found = new Set<string>();
+    for (const food of foods) {
+      for (const tag of food.category.split(", ")) {
+        if (tag) found.add(tag);
+      }
+    }
+    return [...found].sort((a, b) => (a === "general" ? -1 : b === "general" ? 1 : a.localeCompare(b)));
+  }, [foods]);
   const needle = foldFoodQuery(query.trim());
-  const matches = needle
-    ? indexed
-        .filter((food) => food.folded.includes(needle))
-        .filter((food) => !market || food.market.split(", ").includes(market))
-        .slice(0, 12)
-    : [];
+  const matches =
+    needle || tags.length
+      ? indexed
+          .filter((food) => !needle || food.folded.includes(needle))
+          .filter((food) => !market || food.market.split(", ").includes(market))
+          .filter((food) => {
+            const own = food.category.split(", ").filter(Boolean);
+            return tags.every((tag) => own.includes(tag));
+          })
+          .slice(0, 12)
+      : [];
 
   return (
     <div className="flex flex-col gap-4">
@@ -90,6 +105,25 @@ export function PlanFoodPicker({ planId, foods }: { planId: string; foods: Picke
           className="min-w-0 flex-1 rounded-lg border border-zinc-300 bg-transparent px-3 py-2 text-sm dark:border-zinc-700"
         />
       </div>
+      <div className="flex flex-wrap gap-2">
+        {availableTags.map((tag) => {
+          const selected = tags.includes(tag);
+          return (
+            <button
+              key={tag}
+              type="button"
+              onClick={() => setTags(selected ? tags.filter((item) => item !== tag) : [...tags, tag])}
+              className={`press rounded-full px-3 py-1 text-xs ${
+                selected
+                  ? "bg-zinc-900 text-white dark:bg-zinc-100 dark:text-zinc-900"
+                  : "border border-zinc-300 dark:border-zinc-700"
+              }`}
+            >
+              {tag}
+            </button>
+          );
+        })}
+      </div>
       <ul className="flex flex-col gap-2">
         {matches.map((food) => (
           <li
@@ -112,7 +146,7 @@ export function PlanFoodPicker({ planId, foods }: { planId: string; foods: Picke
                     {[food.category, food.market].filter(Boolean).join(" · ")}
                   </span>
                 ) : null}
-                {food.market ? (
+                {food.market || food.category.split(", ").includes("general") ? (
                   <span className="block text-xs text-zinc-500">
                     {[food.packageSize, food.price != null ? `${food.price.toFixed(2)} €` : "sin precio"]
                       .filter(Boolean)

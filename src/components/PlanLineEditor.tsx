@@ -1,6 +1,6 @@
 "use client";
 
-import { useRef, useState } from "react";
+import { useLayoutEffect, useRef, useState } from "react";
 import { createPortal } from "react-dom";
 import { deletePlanLine, updatePlanLine } from "@/actions/plans";
 import { FichaProducto } from "@/components/Producto";
@@ -45,26 +45,39 @@ export function PlanLineEditor({
   const kcal = Math.round(protein * 4 + carbs * 4 + fat * 9);
   const tags = [line.category, line.market].filter(Boolean).join(" · ");
   const formId = `line-${line.id}`;
-  const drag = useRef({ x: 0, y: 0, moved: false });
-  const [ghost, setGhost] = useState<{ x: number; y: number } | null>(null);
+  const drag = useRef({ x: 0, y: 0, moved: false, slot: "" });
+  const ghostRef = useRef<HTMLDivElement>(null);
+  const [dragging, setDragging] = useState(false);
 
   function grab(event: React.PointerEvent<HTMLTableCellElement>) {
     if (event.button !== 0) return;
-    drag.current = { x: event.clientX, y: event.clientY, moved: false };
+    drag.current = { x: event.clientX, y: event.clientY, moved: false, slot: "" };
     event.currentTarget.setPointerCapture(event.pointerId);
+  }
+
+  function placeGhost(x: number, y: number) {
+    const card = ghostRef.current;
+    if (!card) return;
+    card.style.transform = `translate3d(${x}px, ${y}px, 0) translate(-50%, -70%) rotate(-3deg) scale(1.04)`;
+    card.style.opacity = "1";
   }
 
   function pulling(event: React.PointerEvent<HTMLTableCellElement>) {
     if (!event.currentTarget.hasPointerCapture(event.pointerId)) return;
-    if (Math.hypot(event.clientX - drag.current.x, event.clientY - drag.current.y) > 8) {
+    if (Math.hypot(event.clientX - drag.current.x, event.clientY - drag.current.y) <= 8) return;
+    if (!drag.current.moved) {
       drag.current.moved = true;
-      setGhost({ x: event.clientX, y: event.clientY });
-      const cell = event.currentTarget;
-      const previous = cell.style.pointerEvents;
-      cell.style.pointerEvents = "none";
-      const under = document.elementFromPoint(event.clientX, event.clientY);
-      cell.style.pointerEvents = previous;
-      onOver?.(under?.closest("[data-slot]")?.getAttribute("data-slot") ?? "");
+      setDragging(true);
+    }
+    placeGhost(event.clientX, event.clientY);
+    const cell = event.currentTarget;
+    cell.style.pointerEvents = "none";
+    const under = document.elementFromPoint(event.clientX, event.clientY);
+    cell.style.pointerEvents = "";
+    const slot = under?.closest("[data-slot]")?.getAttribute("data-slot") ?? "";
+    if (slot !== drag.current.slot) {
+      drag.current.slot = slot;
+      onOver?.(slot);
     }
   }
 
@@ -76,10 +89,15 @@ export function PlanLineEditor({
     const under = document.elementFromPoint(event.clientX, event.clientY);
     cell.style.pointerEvents = "";
     const slot = under?.closest("[data-slot]")?.getAttribute("data-slot");
-    setGhost(null);
+    setDragging(false);
+    drag.current.slot = "";
     onOver?.("");
     if (slot) onMove?.(slot);
   }
+
+  useLayoutEffect(() => {
+    if (dragging) placeGhost(drag.current.x, drag.current.y);
+  }, [dragging]);
 
   function changeGrams(value: number) {
     const factor = line.grams > 0 ? value / line.grams : 1;
@@ -93,7 +111,7 @@ export function PlanLineEditor({
     <>
       <tr
         data-slot={line.slot}
-        className={`cursor-grab ${ghost ? "opacity-40 outline outline-2 outline-dashed outline-zinc-900 dark:outline-zinc-100" : ""}`}
+        className={`cursor-grab transition-opacity duration-200 ${dragging ? "opacity-30" : ""}`}
         onClick={() => {
           if (drag.current.moved) {
             drag.current.moved = false;
@@ -226,13 +244,14 @@ export function PlanLineEditor({
           onClose={() => setOpen(false)}
         />
       ) : null}
-      {ghost
+      {dragging
         ? createPortal(
             <div
-              className="pointer-events-none fixed z-50 rounded-xl border-2 border-zinc-900 bg-white px-3 py-2 text-sm shadow-lg transition-transform duration-75 dark:border-zinc-100 dark:bg-zinc-900"
-              style={{ left: ghost.x + 12, top: ghost.y + 12 }}
+              ref={ghostRef}
+              className="pointer-events-none fixed top-0 left-0 z-50 w-56 rounded-2xl border border-zinc-900 bg-white px-4 py-3 text-sm opacity-0 shadow-2xl will-change-transform dark:border-zinc-100 dark:bg-zinc-900"
             >
-              {line.name}
+              <p className="font-medium">{line.name}</p>
+              <p className="mt-1 text-xs text-zinc-500">{kcal} kcal · {grams} g</p>
             </div>,
             document.body,
           )

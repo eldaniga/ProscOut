@@ -123,6 +123,7 @@ export default async function MealPlanPage(props: {
       {current && target !== null ? (
         <div className="flex flex-col gap-4">
           <PlanMeals
+            planId={current.id}
             target={target}
             lines={rows.map((line) => ({
               id: line.id,
