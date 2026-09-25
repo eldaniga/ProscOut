@@ -29,27 +29,6 @@ export default async function MealPlanPage(props: {
   });
   const requested = typeof query.plan === "string" ? query.plan : "";
   const current = plans.find((plan) => plan.id === requested) ?? plans.find((plan) => plan.active) ?? plans[0];
-  const foods = current
-    ? await prisma.food.findMany({
-        orderBy: { name: "asc" },
-        select: {
-          id: true,
-          name: true,
-          kcal: true,
-          protein: true,
-          carbs: true,
-          fat: true,
-          unitGrams: true,
-          category: true,
-          market: true,
-          price: true,
-          packageSize: true,
-          imageUrl: true,
-          barcode: true,
-        },
-      })
-    : [];
-
   const target = profile
     ? reducedCalories(
         maintenanceCalories(
@@ -148,7 +127,7 @@ export default async function MealPlanPage(props: {
               barcode: line.food?.barcode ?? "",
             }))}
           />
-          <PlanFoodPicker planId={current.id} foods={foods} />
+          <PlanFoodPicker planId={current.id} />
         </div>
       ) : null}
     </section>
